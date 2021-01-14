@@ -13,21 +13,21 @@
 #
 primary:
   - text: Documentation
-    href: /docs/
+    href: /
   - text: Navigation section
     links:
       - text: Demo link A
-        href: /two/a/
+        href: /
       - text: Demo link B
-        href: /two/b/
+        href: /
       - text: Demo link C
-        href: /two/c/
+        href: /
       - text: Demo link D
-        href: /two/a/
+        href: /
       - text: Demo link E
-        href: /two/b/
+        href: /
       - text: Demo link F
-        href: /two/c/
+        href: /
   - text: Referenced section
     links: footer
   - text: External link
@@ -36,13 +36,13 @@ primary:
 
 secondary:
   - text: Documentation
-    href: /docs/
+    href: /
   - text: Theme
-    href: /theme/
+    href: /
 
 docs:
   - text: Sidenav Documentation
-    href: /docs/
+    href: /
   - text: Sidenav External link
     href: https://18f.gsa.gov
     external: true
@@ -51,25 +51,25 @@ docs:
 # with the 'big' footer style.
 footer:
   - text: Documentation
-    href: /docs/
+    href: /
     links:
       - text: Overview
-        href: /docs/
+        href: /
       - text: Secondary documentation page
-        href: /docs/two/
+        href: /
       - text: Tertiary docs
-        href: /docs/three/
+        href: /
   - text: Navigation section
-    href: /docs/
+    href: /
     links:
       - text: Demo link A
-        href: /two/a/
+        href: /
       - text: Demo link B
-        href: /two/b/
+        href: /
       - text: Demo link C
-        href: /two/c/
+        href: /
   - text: External links
-    href: /docs/
+    href: /
     links:
       - text: 18F
         href: https://18f.gsa.gov
@@ -81,7 +81,7 @@ footer:
         href: https://code.gov/
         external: true
   - text: Privacy policy
-    href: /docs/
+    href: /
 #   links:
 #     - text: Demo link A
 #       href: /three/a/
