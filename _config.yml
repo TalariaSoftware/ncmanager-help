@@ -31,6 +31,14 @@ theme: uswds-jekyll
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
