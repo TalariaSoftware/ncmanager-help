@@ -2,14 +2,15 @@
 title: Committees
 ---
 
-Committees are the most important part of the neighborhood council system. They are where the work of the neighborhood councils gets done.
+Committees are the most important part of the neighborhood council system. They are where the work of the neighborhood councils get done.
 
 This guide is designed to give you everything you need to lead your committee to success.
 
-- Role of Committees
-- Establishing the committee
-  - Create the committee
-  - Appoint a chair
+- [Role of Committees](role)
+- [Establishing the Committee](establish)
+  - [Creating a Committee](create)
+  - [Set the Direction and Intent](directives)
+  - [Appoint a Chair](appoint-chair)
   - Appoint and ratify members
 - Before every meeting
   - Create an agenda
