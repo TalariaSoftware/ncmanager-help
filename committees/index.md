@@ -11,8 +11,8 @@ This guide is designed to give you everything you need to lead your committee to
   - [Creating a Committee](create)
   - [Set the Direction and Intent](directives)
   - [Appoint a Chair](appoint-chair)
-- Before every meeting
   - [Appoint and ratify members](add-members)
+- [Before Every Meeting](before-meetings)
   - Create an agenda
   - Publish your agenda (ENS, website, physical posting, mailing list (opt))
 - During the meeting
