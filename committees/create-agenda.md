@@ -3,10 +3,10 @@ title: Create an Agenda
 ---
 
 An agenda lets everyone know what is going to be discussed in the meeting. This
-let's everyone know whether or not they should attend and also helps people show
+helps people decide whether or not they should attend and also helps them show
 up prepared when they do attend the meeting.
 
-Also the Brown Act requires that every topic that is going to be discussed appear on
+The Brown Act requires that every topic that is going to be discussed appear on
 the agenda and that nothing be discussed that is not on the agenda or outside of
 a properly agendized and noticed meeting. This is so everyone can be aware of an
 participate in the deliberation of government.
@@ -22,7 +22,7 @@ wants to can join.
 Example:
 
       Lake Woebegone Neighborhood Council Holiday Party Committee
-      October 21, 2015 4:29
+      October 21, 2015 4:30
       Courthouse Mall Community Room
       100 Courthouse Square
       Hill Valley, CA 90000
@@ -33,7 +33,7 @@ all the information people need to be able to attend.
 Example:
 
       Lake Woebegone Neighborhood Council Holiday Party Committee
-      October 21, 2015 4:29
+      October 21, 2015 4:30
       Teleconference meeting
       Attend via Zoom: https://zoom.us/j/987654321012
       Attend by phone by dialing 1-669-900-6833 and entering meeting id 987 6543 21012
@@ -48,10 +48,10 @@ description of the item. The description should be as long as necessary for the
 public to know what is going to be discussed and as short as possible.
 
 Long descriptions not widely read and can actually obscure the information in
-the description. The Brown Act actually states that a "brief general description
-of an item genearlly need not exceed 20 words."[^549542]
+the description. The Brown Act states that a "brief general description
+of an item generally need not exceed 20 words."[^549542]
 
-#### General Public Comment
+### General Public Comment
 
 The Brown Act requires that every agenda include an opportunity for members of
 the public to directly address the committee on any item of interest to the
@@ -62,24 +62,72 @@ agenda that doesn't include this item.
 
 Example:
 
-    General Public Comment on Non-Agenda Items.
-
-#### New Business
-
-New business is an opportunity for community members or members of the public to
-present new things for the committee to consider and discuss.
-
-Under the Brown Act, the only things that 
-
+    General Public Comment on Non-Agenda Items
 
 [^549542]: California Government Code §54954.2
 [^549543]: California Government Code §54954.3
 
+### Approval of the Minutes
 
-- Required Brown Act Language; “Public Access of Records” is included on all Agendas
-- Required ADA language is included on all agendas
-- Include the date and title of the meeting in the subject box of the email
-- All items are listed for discussion and possible action and may be discussed out of order
-- New business
-- Approval of the minutes
-- Adjournment
+Board of Neighborhood Commissioner policy requires that minutes of a board
+meeting be on the agenda for approval during a following regular board
+meeting.[^bonc201601]
+
+For committees it's also a good practice to keep minutes and have them approved
+at later meetings so there is a record of what was decided in committee.
+
+Example:
+
+    Approval of the Minutes
+
+[^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
+
+### Adjournment
+
+Every meeting ends eventually, even if it doesn't seem like it ever will.
+
+Adjourning a meeting is an official action of the assembly, so like everything
+else the assembly does, it should be listeed as an action item.
+
+Example:
+
+    Adjournment
+
+### Public Access of Records
+
+The Department of Neighborhood Empowerment requires that all Neighborhood
+Council agendas include language describing the public's access to records as
+ensured by the Brown Act.
+
+In fact, the Department of Neighborhood Empowerment (DONE) will not publish an
+agenda that doesn't include this information.
+
+Example:
+
+    *Public Posting of Agendas* Example NC agendas are posted for public review
+    at the Example Community Center, 123 Main St, Los Angeles, CA 98765 and
+    www.example.org. You can also receive our agendas via email by subscribing
+    to L.A. City’s Early Notification System at
+    https://www.lacity.org/subscriptions.
+
+### Americans with Disabilities Act
+
+The Department of Neighborhood Empowerment requires that all Neighborhood
+Council agendas include information about the public's rights under the
+Americans with Disabilities Act (ADA).
+
+In fact, the Department of Neighborhood Empowerment (DONE) will not publish an
+agenda that doesn't include this information.
+
+Example:
+
+    *The Americans with Disabilities Act* As a covered entity under Title II of
+    the Americans with Disabilities Act, the City of Los Angeles does not
+    discriminate on the basis of disability and, upon request, will provide
+    reasonable accommodation to ensure equal access to its programs, services
+    and activities. Sign language interpreters, assistive listening devices and
+    other auxiliary aids and/or services, may be provided upon request. To
+    ensure availability of services, please make your request at least 3
+    business days (72 hours) prior to the meeting you wish to attend by
+    contacting George Washington, Board President, at (323) 555-1212 or email
+    president@example.org.
