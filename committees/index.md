@@ -13,8 +13,10 @@ This guide is designed to give you everything you need to lead your committee to
   - [Appoint a Chair](appoint-chair)
   - [Appoint and ratify members](add-members)
 - [Before Every Meeting](before-meetings)
-  - Create an agenda
-  - Publish your agenda (ENS, website, physical posting, mailing list (opt))
+  - [Create an Agenda](create-agenda)
+  - Post to the Early Notification System
+  - Post on your NC website
+  - Post your agenda physically
 - During the meeting
   - Preside over the meeting
   - Take minutes
