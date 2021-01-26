@@ -14,8 +14,8 @@ This guide is designed to give you everything you need to lead your committee to
   - [Appoint and ratify members](add-members)
 - [Before Every Meeting](before-meetings)
   - [Create an Agenda](create-agenda)
-  - Post to the Early Notification System
   - Post on your NC website
+  - [Post to the Early Notification System](early-notification-system)
   - Post your agenda physically
 - During the meeting
   - Preside over the meeting
