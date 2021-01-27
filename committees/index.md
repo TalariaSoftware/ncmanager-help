@@ -20,7 +20,7 @@ This guide is designed to give you everything you need to lead your committee to
 - [During the Meeting](during-meetings)
   - [Preside over the Meeting](preside)
   - [Take Minutes](take-minutes)
-- After the meeting
-  - Publish the minutes of the meeting (website, mailing list)
-  - Publish any approved minutes
-  - Get recommendations added to the board agenda
+- [After the meeting](after-meetings)
+  - [Publish the Minutes](publish-minutes)
+  - [Publish Approved Minutes](publish-approved-minutes)
+  - [Get Recommendations onto the Board Agenda](get-on-board-agenda)

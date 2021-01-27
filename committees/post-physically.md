@@ -8,7 +8,7 @@ agendas in a public location, so that every one can remained informed about
 upcoming meetings.
 
 BONC policy requires physically posting an agenda for all NC Committee
-meetings.[^bonc2012011] In addition, the NC must notify DONE of the location of
+meetings.[^bonc2014011] In addition, the NC must notify DONE of the location of
 these postings.[^postinglocation]
 
 Find out this location for your Neighborhood Council, and post your agenda there

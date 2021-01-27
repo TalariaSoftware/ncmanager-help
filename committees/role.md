@@ -5,8 +5,8 @@ title: Role of Committees
 Committees are the most important part of the neighbhorhood council system. They
 are where the work of the neighborhood councils get done.
 
-The board is governing body of the neighborhood council[^governingbody]. They
-make all the decisions of the neighborhood councils.[^subjecttoapproval]
+The board is the governing body of the neighborhood council[^governingbody].
+They make all the decisions of the neighborhood councils.[^subjecttoapproval]
 
 Because the board deals with everything in the neighborhood, there is not enough
 time in board meetings to discuss most issues in depth. Committees are an
