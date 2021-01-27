@@ -17,9 +17,9 @@ This guide is designed to give you everything you need to lead your committee to
   - [Post to the Early Notification System](early-notification-system)
   - [Post on your NC website](post-on-the-web)
   - [Post your agenda physically](post-physically)
-- During the meeting
-  - Preside over the meeting
-  - Take minutes
+- [During the Meeting](during-meetings)
+  - [Preside over the Meeting](preside)
+  - [Take Minutes](take-minutes)
 - After the meeting
   - Publish the minutes of the meeting (website, mailing list)
   - Publish any approved minutes

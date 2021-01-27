@@ -9,6 +9,6 @@ committee meeting. They are ultimate the responsibility of the chair, but of
 course she can delegate however she see's fit.
 
 - [Create an Agenda](create-agenda)
-- Post to the Early Notification System
-- Post on your NC website
-- Post your agenda physically
+- [Post to the Early Notification System](early-notification-system)
+- [Post on your NC website](post-on-the-web)
+- [Post your agenda physically](post-physically)
