@@ -5350,3 +5350,6 @@ i.e.
 @media all and (min-width: 30em) { .usa-footer--big a.usa-footer__primary-link { margin-bottom: 1.5rem; } }
 .usa-header button[aria-expanded="true"]:after, .usa-header button[aria-expanded="true"]:hover:after { display: none; }
 .usa-layout-docs__sidenav, .usa-layout-docs__main { width: 100%; overflow: hidden; }
+/* Custom project SASS goes here. i.e. @include u-padding-right('05'); */
+.usa-layout-docs__sidenav { width: 25%; }
+.usa-layout-docs__main { width: 75%; }
