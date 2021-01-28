@@ -1,5 +1,6 @@
 ---
 title: Preside Over the Meeting
+permalink: /:path/:basename
 ---
 
 Once you are in a meeting, it is the responsibility of the chair or their

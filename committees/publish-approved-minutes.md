@@ -1,5 +1,6 @@
 ---
 title: Publish Approved Minutes
+permalink: /:path/:basename
 ---
 
 One of the most important things that an NC committee does at a meeting is

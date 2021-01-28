@@ -1,5 +1,6 @@
 ---
 title: Post the Agenda on the Web
+permalink: /:path/:basename
 ---
 
 In the twenty-first century, one of the best ways to communicate with the

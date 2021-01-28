@@ -1,5 +1,6 @@
 ---
 title: After the Meeting
+permalink: /:path/:basename
 ---
 
 Once you have had your committee meeting the hard work is done. But there are

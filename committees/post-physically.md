@@ -1,5 +1,6 @@
 ---
 title: Post the Agenda Physically
+permalink: /:path/:basename
 ---
 
 Not everyone in your neighborhood has easy access to the web or knows to check

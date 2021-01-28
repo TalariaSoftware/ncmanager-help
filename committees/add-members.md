@@ -1,5 +1,6 @@
 ---
 title: Appoint and Ratify Members
+permalink: /:path/:basename
 ---
 
 A committee with only one member is not very useful. So the last step in setting

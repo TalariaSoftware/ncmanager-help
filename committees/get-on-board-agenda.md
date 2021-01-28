@@ -1,5 +1,6 @@
 ---
 title: Get Recommendation onto the Board Agenda
+permalink: /:path/:basename
 ---
 
 All actions, recommendations, and policies of an NC committee are subject to

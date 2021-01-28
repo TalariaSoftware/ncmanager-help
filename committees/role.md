@@ -1,5 +1,6 @@
 ---
 title: Role of Committees
+permalink: /:path/:basename
 ---
 
 Committees are the most important part of the neighbhorhood council system. They

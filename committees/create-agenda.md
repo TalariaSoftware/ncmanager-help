@@ -1,5 +1,6 @@
 ---
 title: Create an Agenda
+permalink: /:path/:basename
 ---
 
 An agenda lets everyone know what is going to be discussed in the meeting. This

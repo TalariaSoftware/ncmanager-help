@@ -1,5 +1,6 @@
 ---
 title: Before Every Meeting
+permalink: /:path/:basename
 ---
 
 Once you have a committee it's time to get ready for your meeting.

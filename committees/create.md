@@ -1,5 +1,6 @@
 ---
 title: Creating a Committee
+permalink: /:path/:basename
 ---
 
 There are two types of neighborhood council committees, standing and ad hoc.

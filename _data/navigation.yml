@@ -47,28 +47,45 @@ docs:
     href: https://18f.gsa.gov
     external: true
 
-documentation:
+committees:
   - text: Committees
-    href: /committees
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /
-      - text: Demo link B
-        href: /
-      - text: Demo link C
-        href: /
-      - text: Demo link D
-        href: /
-      - text: Demo link E
-        href: /
-      - text: Demo link F
-        href: /
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+    href: /committees/
+  - text: Role of Committees
+    href: /committees/role
+  - text: Establishing the Committee
+    href: /committees/establish
+  - text: Creating a Committee
+    href: /committees/create
+  - text: Set the Direction and Intent
+    href: /committees/directives
+  - text: Appoint a Chair
+    href: /committees/appoint-chair
+  - text: Appoint and ratify members
+    href: /committees/add-members
+  - text: Before Every Meeting
+    href: /committees/before-meetings
+  - text: Create an Agenda
+    href: /committees/create-agenda
+  - text: Post to the Early Notification System
+    href: /committees/early-notification-system
+  - text: Post on your NC website
+    href: /committees/post-on-the-web
+  - text: Post your agenda physically
+    href: /committees/post-physically
+  - text: During the Meeting
+    href: /committees/during-meetings
+  - text: Preside over the Meeting
+    href: /committees/preside
+  - text: Take Minutes
+    href: /committees/take-minutes
+  - text: After the meeting
+    href: /committees/after-meetings
+  - text: Publish the Minutes
+    href: /committees/publish-minutes
+  - text: Publish Approved Minutes
+    href: /committees/publish-approved-minutes
+  - text: Get Recommendations onto the Board Agenda
+    href: /committees/get-on-board-agenda
 
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.

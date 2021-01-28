@@ -38,7 +38,12 @@ defaults:
       type: pages
     values:
       layout: page
-      sidenav: documentation
+  -
+    scope:
+      path: "committees"
+    values:
+      sidenav: committees
+
 
 exclude:
   - .sass-cache/

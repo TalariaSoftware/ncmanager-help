@@ -1,5 +1,6 @@
 ---
 title: During the Meeting
+permalink: /:path/:basename
 ---
 
 You established a committee, scheduled a meeting, and created a published the

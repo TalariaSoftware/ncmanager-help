@@ -1,5 +1,6 @@
 ---
 title: Publish the Minutes
+permalink: /:path/:basename
 ---
 
 Your neighborhood council committee is a government body and the minutes are the

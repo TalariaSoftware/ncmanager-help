@@ -1,5 +1,6 @@
 ---
 title: Establishing a Committee
+permalink: /:path/:basename
 ---
 
 Before a committee can do anything it needs to be established. The committee has

@@ -1,5 +1,6 @@
 ---
 title: Direction and Intent
+permalink: /:path/:basename
 ---
 
 Like all of us, a committee needs a reason to exist. It needs a purpose and a

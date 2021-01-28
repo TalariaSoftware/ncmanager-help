@@ -1,5 +1,6 @@
 ---
 title: Appoint a Chair
+permalink: /:path/:basename
 ---
 
 Every committee needs a chair.[^cochairs] The committee chair is responsible for

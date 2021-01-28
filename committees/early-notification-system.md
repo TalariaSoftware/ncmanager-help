@@ -1,5 +1,6 @@
 ---
 title: Post to the Early Notification System
+permalink: /:path/:basename
 ---
 
 The Early Notification System (ENS) exists so the city can distribute
