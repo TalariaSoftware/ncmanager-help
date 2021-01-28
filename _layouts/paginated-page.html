@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign articles = site.data.navigation[page.sidenav] %}
+{% for article in articles -%}
+
+  {% if article.href == page.url -%}
+    {% if forloop.first -%}
+      no previous
+    {% else %}
+      {% assign previous = forloop.index0 | minus: 1 -%}
+      {% assign previous_article = articles[previous] %}
+      <a href='{{ previous_article.href }}'>&lt; {{ previous_article.text }}</a>
+    {% endif %}
+
+    {% if forloop.last -%}
+      no next
+    {% else %}
+      {% assign next = forloop.index0 | plus: 1 -%}
+      {% assign next_article = articles[next] %}
+      <a href='{{ next_article.href }}'>{{ next_article.text }} &gt;</a>
+    {% endif %}
+  {% endif -%}
+{% endfor -%}
