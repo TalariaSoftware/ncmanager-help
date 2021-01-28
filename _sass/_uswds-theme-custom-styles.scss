@@ -5,9 +5,13 @@
  * @include u-padding-right('05');
 */
 
-.usa-layout-docs__sidenav, .usa-layout-docs__main {
-  // override 100% width set by uswds-theme-custom-styles in theme plugin so
-  // that sidenav shows up on the side when there is room
-  // https://github.com/18F/uswds-jekyll/blob/master/_sass/uswds/custom/_uswds-theme-custom-styles.scss
-  width: inherit;
+// override 100% width set by uswds-theme-custom-styles in theme plugin so
+// that sidenav shows up on the side when there is room
+// https://github.com/18F/uswds-jekyll/blob/master/_sass/uswds/custom/_uswds-theme-custom-styles.scss
+.usa-layout-docs__sidenav {
+  width: 25%;
+}
+
+.usa-layout-docs__main {
+  width: 75%;
 }
