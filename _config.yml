@@ -38,6 +38,7 @@ defaults:
       type: pages
     values:
       layout: page
+      sidenav: documentation
 
 exclude:
   - .sass-cache/

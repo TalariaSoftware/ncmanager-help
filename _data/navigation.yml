@@ -47,6 +47,29 @@ docs:
     href: https://18f.gsa.gov
     external: true
 
+documentation:
+  - text: Committees
+    href: /committees
+  - text: Navigation section
+    links:
+      - text: Demo link A
+        href: /
+      - text: Demo link B
+        href: /
+      - text: Demo link C
+        href: /
+      - text: Demo link D
+        href: /
+      - text: Demo link E
+        href: /
+      - text: Demo link F
+        href: /
+  - text: Referenced section
+    links: footer
+  - text: External link
+    href: https://18f.gsa.gov
+    external: true
+
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
 footer:
