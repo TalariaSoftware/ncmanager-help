@@ -5353,3 +5353,26 @@ i.e.
 /* Custom project SASS goes here. i.e. @include u-padding-right('05'); */
 .usa-layout-docs__sidenav { width: 25%; }
 .usa-layout-docs__main { width: 75%; }
+.usa-pagination { margin-bottom: 1rem ; margin-top: 1rem ; align-items: center; display: flex; flex-direction: row; }
+@media all and (min-width: 40em) { .usa-pagination { gap: 1rem; } }
+.usa-pagination__link { background-color: #f9f9f9; border-color: #a9aeb1; border-style: solid; border-radius: 0.25rem; border-width: 1px; display: inline-flex; justify-content: center; padding: 0.5rem; }
+@media all and (min-width: 40em) { .usa-pagination__link { width: 100%; } }
+@media all and (max-width: 39.99em) { .usa-pagination__label, .usa-pagination__item, .usa-pagination__view-all { display: none; } }
+.usa-pagination__list { margin-bottom: 0; margin-top: 0; list-style-type: none; padding-left: 0; align-items: center; display: none; margin-right: auto; width: 100%; }
+@media all and (min-width: 40em) { .usa-pagination__list { display: flex; flex-flow: row nowrap; width: auto; } }
+.usa-pagination__item { font-feature-settings: "tnum" 1, "kern" 1 ; line-height: 1; margin-left: 0.25rem; margin-right: 0.25rem; min-width: 4.5ch; }
+@media all and (min-width: 40em) { .usa-pagination__item { flex: 1 0 auto; } }
+.usa-pagination__link { align-items: center; color: #1b1b1b !important; text-decoration: none; }
+.usa-pagination__link[disabled] { color: #a9aeb1 !important; pointer-events: none; }
+.usa-pagination__link:hover { color: #005ea2 !important; }
+.usa-pagination__link--current { color: white; background-color: #005ea2; border-color: #162e51; }
+.usa-pagination__link--current:hover, .usa-pagination__link--current:focus, .usa-pagination__link--current:active { color: white; background-color: #162e51; }
+.usa-pagination__ellipsis { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; padding: 0.5rem; }
+.usa-pagination__previous-page, .usa-pagination__next-page { width: 100%; }
+.usa-pagination__previous-page .usa-pagination__button-text, .usa-pagination__next-page .usa-pagination__button-text { display: none; }
+@media all and (max-width: 39.99em) { .usa-pagination__previous-page, .usa-pagination__next-page { flex: 1 1 50%; } .usa-pagination__previous-page .usa-pagination__button-text, .usa-pagination__next-page .usa-pagination__button-text { display: block; } }
+@media all and (min-width: 40em) { .usa-pagination__previous-page, .usa-pagination__next-page { width: auto; } }
+@media all and (max-width: 39.99em) { .usa-pagination__previous-page { margin-right: 0.75rem; } }
+.usa-pagination__view-all { margin-left: 0.5rem; text-decoration: none; }
+@media all and (min-width: 40em) { .usa-pagination--centered .usa-pagination__list { margin-left: auto; margin-right: auto; } }
+.usa-pagination { justify-content: flex-end; }
