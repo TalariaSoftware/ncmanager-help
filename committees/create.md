@@ -8,8 +8,8 @@ There are two types of neighborhood council committees, standing and ad hoc.
 ## Standing Committees
 
 Standing committees are designed to exist in perpetuity. They are defined in
-neighborhood council bylaws. You can read Article VII, section 1 of your NC
-bylaws to see what standing committees exist.
+neighborhood council bylaws. Article VII, section 1 of your NC bylaws show what
+standing committees exist.
 
 In order to create a new standing committee, you need to modify the NC bylaws.
 Article XIII of the bylaws describes how to make amendments.

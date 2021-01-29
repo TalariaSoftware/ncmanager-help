@@ -12,9 +12,9 @@ NC website or a page made available at EmpowerLA and that the posting are "Brown
 Act time compliant," meaning 72 hours in advance for regular meetings and 24
 hours in advance for special meetings.
 
-If your NC does not have a website contact the Department of Neighborhood
-Empowerment and they will make a page available to your NC on the EmpowerLA
-website.
+If your NC does not have a website contact your Neighborhood Empowerment
+Advocate at the Department of Neighborhood Empowerment and they will make a page
+available to your NC on the EmpowerLA website.
 
 [^bonc2014011]:
       "Neighborhood Councils shall post agendas of all Board and Committee

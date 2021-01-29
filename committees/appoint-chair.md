@@ -5,7 +5,8 @@ permalink: /:path/:basename
 
 Every committee needs a chair.[^cochairs] The committee chair is responsible for
 appointing members, scheduling meetings, drafting agendas, presiding over the
-meetings, taking minutes, and reporting back to the board.
+meetings, taking minutes, and reporting back to the board. The chair is also a
+member of the committee.
 
 It is a lot of work. Fortunately, the chairperson can delegate any or all of it
 to people they trust will complete it successfully.

@@ -17,6 +17,6 @@ Here is an example directive for a Holiday Party Ad Hoc Committee:
 > Create a budget and plan for the Neighborhood Council's annual holiday party to be held in December of this year.
 
 [^direction]:
-    This is described in Article VII of the NC bylaws. Example text: "The
+    This is described in Article VII of the NC bylaws. For example, "The
     creation, direction, intent, and guidelines of all Standing and Ad Hoc
     Committees will be decided by official action."

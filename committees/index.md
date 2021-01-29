@@ -2,25 +2,14 @@
 title: Committees
 ---
 
-Committees are the most important part of the neighborhood council system. They are where the work of the neighborhood councils get done.
+Committees are the most important part of the neighborhood council system. They
+are where the work of the neighborhood councils get done.
 
-This guide is designed to give you everything you need to lead your committee to success.
+This guide is designed to give you everything you need to lead your committee to
+success.
 
-- [Role of Committees](role)
-- [Establishing the Committee](establish)
-  - [Creating a Committee](create)
-  - [Set the Direction and Intent](directives)
-  - [Appoint a Chair](appoint-chair)
-  - [Appoint and ratify members](add-members)
-- [Before Every Meeting](before-meetings)
-  - [Create an Agenda](create-agenda)
-  - [Post to the Early Notification System](early-notification-system)
-  - [Post on your NC website](post-on-the-web)
-  - [Post your agenda physically](post-physically)
-- [During the Meeting](during-meetings)
-  - [Preside over the Meeting](preside)
-  - [Take Minutes](take-minutes)
-- [After the meeting](after-meetings)
-  - [Publish the Minutes](publish-minutes)
-  - [Publish Approved Minutes](publish-approved-minutes)
-  - [Get Recommendations onto the Board Agenda](get-on-board-agenda)
+Start by understanding the [role of committees](role) in the neighborhood
+council system. Then learn how a committee is [established](establish). Once
+your committee is established, take a look what is required
+[before](before-meetings), [during](during-meetings), and
+[after](after-meetings) committee meetings.

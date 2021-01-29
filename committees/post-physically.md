@@ -5,7 +5,7 @@ permalink: /:path/:basename
 
 Not everyone in your neighborhood has easy access to the web or knows to check
 your neighborhood council's website. It is important to post your committee
-agendas in a public location, so that every one can remained informed about
+agendas in a public location, so that everyone can remain informed about
 upcoming meetings.
 
 BONC policy requires physically posting an agenda for all NC Committee

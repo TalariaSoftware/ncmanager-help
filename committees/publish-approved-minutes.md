@@ -10,4 +10,4 @@ the earlier meeting.
 
 Once the minutes are approved they should be updated to show that they were
 approved and the date they were approved on. The updated minutes should be
-published on the NC website and wherever else your NC's records are kept.
+published on the NC website and wherever else your NC records are kept.

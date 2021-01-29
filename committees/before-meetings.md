@@ -5,11 +5,9 @@ permalink: /:path/:basename
 
 Once you have a committee it's time to get ready for your meeting.
 
-There are a couple of things that need to be done before you can have a
-committee meeting. They are ultimate the responsibility of the chair, but of
-course she can delegate however she see's fit.
+Before you can have a committee meeting you need an [agenda](create-agenda) and
+that agenda will need to be posted to [ENS](early-notification-system), on the
+[NC website](post-on-the-web), and at a [physical location](post-physically).
 
-- [Create an Agenda](create-agenda)
-- [Post to the Early Notification System](early-notification-system)
-- [Post on your NC website](post-on-the-web)
-- [Post your agenda physically](post-physically)
+This is all the responsibility of the chair, but of course she can delegate it
+however she sees fit.

@@ -10,8 +10,8 @@ approve things that are on their agenda.
 Thus if your committee has made any recommendations, it's important to get that
 on the board agenda do the board can act on it.
 
-The board agenda is usually set by the board president/chair so your should make
-sure they know to put your committee's recommendations onto the board
+The board agenda is usually set by the board president or chair so your should
+make sure they know to put your committee's recommendations onto the board
 agenda.[^bylaws82]
 
 [^bylaws73A]:

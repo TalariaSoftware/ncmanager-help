@@ -8,16 +8,16 @@ helps people decide whether or not they should attend and also helps them show
 up prepared when they do attend the meeting.
 
 The Brown Act requires that every topic that is going to be discussed appear on
-the agenda and that nothing be discussed that is not on the agenda or outside of
-a properly agendized and noticed meeting. This is so everyone can be aware of an
-participate in the deliberation of government.
+the agenda and that nothing is discussed that is not on the agenda or outside of
+a properly agendized and noticed meeting. This is so everyone can be aware of
+and participate in the deliberations of government.
 
 ## What Goes in the Agenda
 
 ### Who, When, and Where
 
 The first thing you need on your agenda is a description of what committee is
-meeting, when, and where. Be sure to include enough details so that anyone who
+meeting, when, and where. Be sure to include enough detail so that anyone who
 wants to can join.
 
 Example:
@@ -71,15 +71,15 @@ Example:
 ### Approval of the Minutes
 
 Board of Neighborhood Commissioner policy requires that minutes of a board
-meeting be on the agenda for approval during a following regular board
+meeting be on the agenda for approval during a subsequent regular board
 meeting.[^bonc201601]
 
-For committees it's also a good practice to keep minutes and have them approved
-at later meetings so there is a record of what was decided in committee.
+For committees it is also a good practice to keep minutes and have them approved
+at a subsequent meetings so there is a record of what was decided in committee.
 
 Example:
 
-    Approval of the Minutes
+    Approval of the Minutes of Previous Meeting(s)
 
 [^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 
@@ -108,8 +108,7 @@ Example:
     *Public Posting of Agendas* Example NC agendas are posted for public review
     at the Example Community Center, 123 Main St, Los Angeles, CA 98765 and
     www.example.org. You can also receive our agendas via email by subscribing
-    to L.A. City’s Early Notification System at
-    https://www.lacity.org/subscriptions.
+    to the Early Notification System at https://www.lacity.org/subscriptions.
 
 ### Americans with Disabilities Act
 
@@ -130,5 +129,5 @@ Example:
     other auxiliary aids and/or services, may be provided upon request. To
     ensure availability of services, please make your request at least 3
     business days (72 hours) prior to the meeting you wish to attend by
-    contacting George Washington, Board President, at (323) 555-1212 or email
+    contacting George Washington, Board President, at (323) 555-1212 or
     president@example.org.

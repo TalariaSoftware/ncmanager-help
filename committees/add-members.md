@@ -3,13 +3,13 @@ title: Appoint and Ratify Members
 permalink: /:path/:basename
 ---
 
-A committee with only one member is not very useful. So the last step in setting
-up a committee is to add members.
+A committee with only a chair is not very useful. So the last step in
+establishing a committee is to add members.
 
 In most cases the committee chair makes appointments which are then ratified by
 the board.[^bylawsappointment] If you are the committee chair and want to add
-new members to your committee, be sure to ask the chair or executive committee
-to add the ratification to the board agenda.
+new members to your committee, be sure to ask the board chair or executive
+committee to add the ratification to the board agenda.
 
 Anyone can be a committee member. They do not need to be a board member. In some
 cases they do not even need to be a stakeholder.[^bylawsappointment] Committee
@@ -27,7 +27,7 @@ discussion or make any decisions.
 
 Also, do not appoint too many board members to your committee. Your bylaws will
 probably prevent you from having a majority of a quorum of the board on any
-single committee.[^bylawsboardmembers] This is to prevent the committee from
+single committee.[^bylawsboardmember] This is to prevent the committee from
 deciding how the board is going to decide an issue before it has been discussed
 in a board meeting.
 
