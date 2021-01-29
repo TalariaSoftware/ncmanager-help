@@ -8,20 +8,21 @@ layout: page
 {% for article in articles -%}
 
   {% if article.href == page.url -%}
-    {% if forloop.first -%}
-      no previous
-    {% else %}
+    <nav aria-label="pagination" class="usa-pagination">
       {% assign previous = forloop.index0 | minus: 1 -%}
       {% assign previous_article = articles[previous] %}
-      <a href='{{ previous_article.href }}'>&lt; {{ previous_article.text }}</a>
-    {% endif %}
+      <a href="{{ previous_article.href }}" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page"{% if forloop.first %} disabled{% endif %}>
+            &lt;
+            <span class="usa-pagination__button-text">{{ previous_article.text }}</span>
+        </a>
 
-    {% if forloop.last -%}
-      no next
-    {% else %}
       {% assign next = forloop.index0 | plus: 1 -%}
       {% assign next_article = articles[next] %}
-      <a href='{{ next_article.href }}'>{{ next_article.text }} &gt;</a>
-    {% endif %}
+      <a href="{{ next_article.href }}" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page"{% if forloop.last %} disabled{% endif %}>
+          <span class="usa-pagination__button-text">{{ next_article.text }}</span>
+          &gt;
+      </a>
+    </nav>
   {% endif -%}
 {% endfor -%}
+
