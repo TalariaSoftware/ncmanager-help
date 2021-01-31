@@ -38,12 +38,16 @@ before a special meeting.
       at least one
       Brown Act compliant agenda
       for all Board and Committee meetings."
-      [BONC Policy No
-      2014-01.1 paragraph 1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      Los Angeles, CA,
+      Board of Neighborhood Commissioners,
+      [Policy No. 2014-01.1,](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      para. 1
 
 [^postinglocation]:
       "Neighborhood Councils shall inform the Department
       of (a) the physical location
       of their posting site."
-      [BONC Policy No
-      2014-01.1 paragraph 5](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      Los Angeles, CA,
+      Board of Neighborhood Commissioners,
+      [Policy No. 2014-01.1,](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      para. 5

@@ -73,7 +73,10 @@ as the email subject.
     2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
 
 [^plansec907]:
-    LA City Charter Sec. 907
+    Los Angeles, CA, City Charter § 907
 
 [^planart8]:
-    "Plan for a Citywide System of Neighborhood Councils," Article VIII
+    Los Angeles, CA,
+    Dept. of Neighborhood Empowerment,
+    Plan for a Citywide System of Neighborhood Councils
+    Art. 8

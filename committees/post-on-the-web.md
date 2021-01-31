@@ -45,5 +45,6 @@ on the EmpowerLA website.
       on the EmpowerLA web site.
       Such postings shall be
       Brown Act time compliant."
-      [BONC Policy No
-      2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      Los Angeles, CA,
+      Board of Neighborhood Commissioners,
+      [Policy No. 2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)

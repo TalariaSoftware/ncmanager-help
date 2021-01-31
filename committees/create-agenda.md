@@ -121,8 +121,8 @@ Example:
 
     General Public Comment on Non-Agenda Items
 
-[^549542]: California Government Code §54954.2
-[^549543]: California Government Code §54954.3
+[^549542]: Cal. Gov. Code § 54954.2
+[^549543]: Cal. Gov. Code § 54954.3
 
 ### Approval of the Minutes
 
