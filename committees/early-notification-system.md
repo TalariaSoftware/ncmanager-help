@@ -26,7 +26,7 @@ in city government.
 ENS was proscribed
 in the same part
 of the City Charter
-that created Neighborhood Councils.[^plansec907]
+that created Neighborhood Councils.[^laccsec907]
 It was further defined
 in the Plan for Neighborhood Councils.[^planart8]
 
@@ -72,7 +72,7 @@ as the email subject.
     of the meeting." [BONC Policy No
     2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
 
-[^plansec907]:
+[^laccsec907]:
     Los Angeles, CA, City Charter § 907
 
 [^planart8]:

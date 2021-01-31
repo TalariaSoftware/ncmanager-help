@@ -1,5 +1,5 @@
 ---
-title: Get Recommendation onto the Board Agenda
+title: Get Recommendation to the Board
 permalink: /:path/:basename
 ---
 

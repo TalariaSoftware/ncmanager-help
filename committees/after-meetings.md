@@ -22,5 +22,5 @@ onto the board agenda](get-on-board-agenda).
 This is all the responsibility
 of the chair,
 but of course
-she can delegate it
-however she sees fit.
+they can delegate it
+however they see fit.

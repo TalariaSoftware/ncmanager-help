@@ -44,4 +44,4 @@ of the Board.
 
 [^maxterm]:
     See Article VII section 2
-    of the NC bylaws.
+    of your NC bylaws.

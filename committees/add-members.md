@@ -1,5 +1,5 @@
 ---
-title: Appoint and Ratify Members
+title: Add Members
 permalink: /:path/:basename
 ---
 
@@ -36,7 +36,7 @@ Committee membership is
 a great way
 for people
 to get started
-with the neighborhood council system.
+with neighborhood councils.
 
 As committee chair,
 you should strive to get
@@ -48,7 +48,7 @@ with different viewpoints.
 This ensures
 that the recommendations
 that come out
-of committee
+of the committee
 have the broadest possible support.
 
 However,

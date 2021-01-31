@@ -8,14 +8,15 @@ The committee chair is responsible
 for appointing members,
 scheduling meetings,
 drafting agendas,
-presiding over the meetings,
+presiding over meetings,
 taking minutes,
 and reporting back to the board.
 The chair is also
 a member
 of the committee.
 
-It is a lot of work.
+It is a lot of work
+to be a committee chair.
 Fortunately,
 the chairperson can delegate
 any or all of it
