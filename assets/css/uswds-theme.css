@@ -5351,6 +5351,7 @@ i.e.
 .usa-header button[aria-expanded="true"]:after, .usa-header button[aria-expanded="true"]:hover:after { display: none; }
 .usa-layout-docs__sidenav, .usa-layout-docs__main { width: 100%; overflow: hidden; }
 /* Custom project SASS goes here. i.e. @include u-padding-right('05'); */
+.usa-layout-docs__sidenav, .usa-layout-docs__main { overflow: inherit; }
 .usa-layout-docs__sidenav { width: 25%; }
 .usa-layout-docs__main { width: 75%; }
 .usa-pagination { margin-bottom: 1rem ; margin-top: 1rem ; align-items: center; display: flex; flex-direction: row; }
