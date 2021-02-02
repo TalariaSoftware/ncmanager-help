@@ -10,7 +10,7 @@ to the web
 or knows to check
 your neighborhood council's website.
 It is important to post
-your committee agendas
+your board agendas
 in a public location,
 so that everyone
 can remain informed
@@ -18,7 +18,7 @@ about upcoming meetings.
 
 BONC policy requires
 physically posting an agenda
-for all NC committee meetings.[^bonc2014011]
+for all NC board meetings.[^bonc2014011]
 In addition,
 the NC must notify DONE
 of the location

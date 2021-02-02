@@ -47,6 +47,36 @@ docs:
     href: https://18f.gsa.gov
     external: true
 
+board:
+  - text: Governing Board
+    href: /board/
+  - text: Role of the Board
+    href: /board/role
+  - text: Elect officers
+    href: /board/elect-officers
+  - text: Before Every Meeting
+    href: /board/before-meetings
+  - text: Create an Agenda
+    href: /board/create-agenda
+  - text: Post to the Early Notification System
+    href: /board/early-notification-system
+  - text: Post on your NC website
+    href: /board/post-on-the-web
+  - text: Post your agenda physically
+    href: /board/post-physically
+  - text: During the Meeting
+    href: /board/during-meetings
+  - text: Preside over the Meeting
+    href: /board/preside
+  - text: Take Minutes
+    href: /board/take-minutes
+  - text: After the meeting
+    href: /board/after-meetings
+  - text: Publish the Minutes
+    href: /board/publish-minutes
+  - text: Publish Approved Minutes
+    href: /board/publish-approved-minutes
+
 committees:
   - text: Committees
     href: /committees/

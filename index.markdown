@@ -5,4 +5,5 @@
 layout: home
 ---
 
-[Committees](/committees) 
+[Board](/board)
+[Committees](/committees)

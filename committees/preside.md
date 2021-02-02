@@ -47,7 +47,7 @@ Parliamentary procedure,
 such as defined
 by *Robert's Rules of Order*,
 provides a very complete framework
-for leading these meetings
+for leading these meetings.
 However,
 most committees are small
 and do not need

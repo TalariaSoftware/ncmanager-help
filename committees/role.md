@@ -11,42 +11,6 @@ the work
 of the neighborhood councils
 gets done.
 
-<!-- TODO: move to board guide
-The board is the governing body
-of the neighborhood council[^governingbody].
-They make
-all the decisions
-of the neighborhood councils.[^subjecttoapproval]
-
-[^governingbody]:
-    This is specified
-    in Article V
-    of your Neighborhood Council bylaws.
-    For example:
-    "The Board shall be
-    the Governing Body
-    of the Council
-    within the meaning
-    of that term
-    as set forth in
-    the [Plan
-    for a Citywide System
-    of Neighborhood Councils](https://empowerla.org/wp-content/uploads/2012/12/Plan_Amended_12-18-131.pdf)."
-
-[^subjecttoapproval]:
-    Article VII, section 3, paragraph A
-    of the NC bylaws
-    limits the authority
-    of committees.
-    For example:
-    "The actions, recommendations, and policies
-    of all committees
-    shall be subject
-    to approval
-    by official action
-    of the Board."
--->
-
 Because
 the board deals with
 everything in the neighborhood,
@@ -67,7 +31,7 @@ in depth
 and to form
 a recommendation
 for the board
-to act on.
+to act on.[^subjecttoapproval]
 
 A well-run committee
 will hash out
@@ -82,3 +46,18 @@ to act faster
 and more efficiently
 on a wider
 range of items.
+
+[^subjecttoapproval]:
+    Article VII, section 3, paragraph A
+    of the NC bylaws
+    limits the authority
+    of committees.
+    For example:
+    "The actions, recommendations, and policies
+    of all committees
+    shall be subject
+    to approval
+    by official action
+    of the Board."
+
+

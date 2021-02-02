@@ -40,6 +40,11 @@ defaults:
       layout: paginated-page
   -
     scope:
+      path: "board"
+    values:
+      sidenav: board
+  -
+    scope:
       path: "committees"
     values:
       sidenav: committees
