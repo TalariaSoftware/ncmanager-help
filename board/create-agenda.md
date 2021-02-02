@@ -39,7 +39,7 @@ the deliberations of government.
 The first thing you need
 on your agenda
 is a description
-of what committee is meeting, when, and where.
+of what board is meeting, when, and where.
 Be sure to include enough detail
 so that anyone
 who wants to
@@ -47,7 +47,7 @@ can join.
 
 Example:
 
-      Lake Woebegone Neighborhood Council Holiday Party Committee
+      Lake Woebegone Neighborhood Council Board
       October 21, 2015 4:30
       Courthouse Mall Community Room
       100 Courthouse Square
@@ -63,7 +63,7 @@ to attend.
 
 Example:
 
-      Lake Woebegone Neighborhood Council Holiday Party Committee
+      Lake Woebegone Neighborhood Council Board
       October 21, 2015 4:30
       Teleconference meeting
       Attend via Zoom: https://zoom.us/j/987654321012
@@ -129,18 +129,18 @@ Example:
 
 ### Approval of the Minutes
 
-It is
-a good practice
-to keep minutes
-and have them approved
-at subsequent meetings
-so there is a record
-of what was decided
-in committee.
+Board of Neighborhood Commissioner policy requires
+that minutes
+of a board meeting
+be on the agenda
+for approval
+during a subsequent regular board meeting.[^bonc201601]
 
 Example:
 
     Approval of the Minutes of Previous Meeting(s)
+
+[^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 
 ### Adjournment
 
@@ -153,7 +153,7 @@ Adjourning a meeting
 is an official action
 of the assembly,
 so like everything else
-the committee does,
+the board does,
 it should be listed
 as an agenda item.
 
