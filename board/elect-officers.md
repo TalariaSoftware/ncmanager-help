@@ -24,7 +24,7 @@ the minimum officers essential
 for conducting business are
 the presiding officer,
 usually called president or chairperson,
-and a secretary.
+and the secretary.
 
 Officers are chosen
 by a majority vote

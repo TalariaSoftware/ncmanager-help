@@ -22,10 +22,10 @@ and guides the committee
 to make decisions.
 
 Parliamentary procedure,
-such as defined
+such as codified
 by *Robert's Rules of Order*,
 provides the framework
-for leading these meetings
+for leading these meetings[^parliamentaryauthority]
 and the presiding officer
 should have
 a solid, working, understanding
@@ -34,6 +34,12 @@ But of course,
 "no rules can
 take the place
 of tact and common sense."[^tactandcommonsense]
+
+[^parliamentaryauthority]:
+    Article XII of the NC bylaws
+    specifies the parliamentary authority
+    for the NC,
+    usually *Roberts Rules of Order*.
 
 [^tactandcommonsense]:
     RONR (11<sup>th</sup> ed.), p. 449, II. 13-14

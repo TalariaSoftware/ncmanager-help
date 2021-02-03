@@ -18,8 +18,8 @@ that all board agendas
 are posted
 on the NC website
 or a page made available
-at EmpowerLA
-and that the postings are
+at EmpowerLA.
+The posting must be
 "Brown Act time compliant,"
 meaning 72 hours in advance
 for regular meetings

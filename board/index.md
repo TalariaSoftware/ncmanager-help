@@ -2,8 +2,12 @@
 title: Governing Board
 ---
 
-The governing board is probably the most well-known part of the neighborhood
-councils system. In some senses, the board is the neighborhood council.
+The governing board is probably
+the most well-known part
+of the neighborhood council system.
+In some senses,
+the board is
+the neighborhood council.
 
 This guide is designed
 to give you

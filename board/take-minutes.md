@@ -12,12 +12,12 @@ to take minutes
 of the meeting.[^bylawssecretaryminutes]
 
 Minutes are the record
-of your committee meeting.
+of the board meeting.
 They should say
-when and where the committee met,
-which committee members were there,
+when and where the board met,
+what board members were present,
 and what actions were taken
-by the committee.
+by the board.
 
 [^bylawssecretaryminutes]:
     This will usually

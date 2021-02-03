@@ -9,10 +9,9 @@ what is going
 to be discussed
 in the meeting.
 This helps people decide
-whether or not
-they should attend
+if they should attend
 and also helps them
-show up prepared
+prepare for
 when they do
 attend the meeting.
 
@@ -47,7 +46,7 @@ can join.
 
 Example:
 
-      Lake Woebegone Neighborhood Council Board
+      Hill Valley Neighborhood Council Board
       October 21, 2015 4:30
       Courthouse Mall Community Room
       100 Courthouse Square
@@ -63,7 +62,7 @@ to attend.
 
 Example:
 
-      Lake Woebegone Neighborhood Council Board
+      Hill Valley Neighborhood Council Board
       October 21, 2015 4:30
       Teleconference meeting
       Attend via Zoom: https://zoom.us/j/987654321012
@@ -72,7 +71,7 @@ Example:
 ### Agenda Items
 
 Agenda items are the things
-that the committee
+that the board
 may actually discuss
 and take action on.
 
@@ -80,19 +79,19 @@ An agenda item should include
 a title for easy reference,
 and a brief description
 of the item.
+
 The description should be
 as long as necessary
 for the public to know
 what is going
-to be discussed
-and as short
-as possible.
+to be discussed.
 
-Long descriptions are not
-widely read
-and can actually
-obscure the information
-in the description.
+The description should also be
+as short
+as possible.
+Long descriptions
+actually hide
+key information.
 The Brown Act states that
 a "brief general description
 of an item
@@ -111,9 +110,10 @@ on any item
 of interest
 to the public
 that is within
-the committee's jurisdiction.[^549543]
+the board's jurisdiction.[^549543]
 
-In fact,
+To ensure compliance
+with the law,
 the Department of Neighborhood Empowerment (DONE)
 will not publish
 an agenda
@@ -171,7 +171,8 @@ to records
 as ensured
 by the Brown Act.
 
-In fact,
+To assure compliance
+with the law,
 the Department of Neighborhood Empowerment (DONE)
 will not publish
 an agenda that doesn't
@@ -192,7 +193,7 @@ include information
 about the public's rights
 under the Americans with Disabilities Act (ADA).
 
-In fact,
+To assure compliance,
 the Department of Neighborhood Empowerment (DONE) will not publish
 an agenda
 that doesn't

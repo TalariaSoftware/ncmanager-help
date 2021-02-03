@@ -10,13 +10,13 @@ the record of what
 that government body
 has done.
 You should publish
-your committee minutes
+your board minutes
 right away
 to make them available
 to the general public.
 
 Publishing your minutes right away
-also allows committee members
+also allows board members
 to review them
 while the meeting is fresh
 in their mind.
@@ -26,7 +26,7 @@ to approve the minutes
 at the next meeting.
 
 You should publish
-your board minutes
+the board minutes
 on the web
 so everyone
 who is interested
