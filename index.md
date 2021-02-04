@@ -91,7 +91,7 @@ layout: home
         </p>
       </div>
       <div class='usa-card__footer'>
-        <a href='/board' class='usa-button'>View the Committee Guide</a>
+        <a href='/committees' class='usa-button'>View the Committee Guide</a>
       </div>
     </div>
   </li>
