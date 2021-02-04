@@ -36,14 +36,14 @@ layout: home
 
 </section>
 
-<ul class="usa-card-group">
+<ul class='usa-card-group'>
 
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading">The Board</h2>
+  <li class='tablet:grid-col-4 usa-card'>
+    <div class='usa-card__container'>
+      <header class='usa-card__header'>
+        <h2 class='usa-card__heading'>The Board</h2>
       </header>
-      <div class="usa-card__body">
+      <div class='usa-card__body'>
         <p>
         The governing board is probably
         the most well-known part
@@ -61,18 +61,18 @@ layout: home
         to success.
         </p>
       </div>
-      <div class="usa-card__footer">
-        <button class="usa-button">View the Board Guide</button>
+      <div class='usa-card__footer'>
+        <a href='/board' class='usa-button'>View the Board Guide</a>
       </div>
     </div>
   </li>
 
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading">Committees</h2>
+  <li class='tablet:grid-col-4 usa-card'>
+    <div class='usa-card__container'>
+      <header class='usa-card__header'>
+        <h2 class='usa-card__heading'>Committees</h2>
       </header>
-      <div class="usa-card__body">
+      <div class='usa-card__body'>
         <p>
         The governing board is probably
         the most well-known part
@@ -90,8 +90,8 @@ layout: home
         to success.
         </p>
       </div>
-      <div class="usa-card__footer">
-        <button class="usa-button">View the Committee Guide</button>
+      <div class='usa-card__footer'>
+        <a href='/board' class='usa-button'>View the Committee Guide</a>
       </div>
     </div>
   </li>
