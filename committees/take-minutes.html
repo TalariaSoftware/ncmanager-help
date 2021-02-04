@@ -33,7 +33,7 @@
           </button>
           <ul class="usa-nav__primary usa-accordion">
             <li class="usa-nav__primary-item">
-              <a class=" usa-nav__link  " href="/board">
+              <a class=" usa-nav__link  " href="/">
                 <span>All Guides</span>
               </a>
             </li>
