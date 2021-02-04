@@ -1,44 +1,22 @@
-# This is the configuration for the site navigation.
-
-# This file defines the structure of various named navigational
-# listings, any of which can be used (with some caveats) as the
-# links in your header, footer, and per-page side navigation.
-#
-# For instance, if you have a "primary" navigation list here, you
-# can use that as your header's primary navigation by setting
-# `primary.links` to "primary":
-#
-# primary:
-#   links: primary
-#
 primary:
-  - text: Documentation
-    href: /
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /
-      - text: Demo link B
-        href: /
-      - text: Demo link C
-        href: /
-      - text: Demo link D
-        href: /
-      - text: Demo link E
-        href: /
-      - text: Demo link F
-        href: /
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+    - text: All Guides
+      href: /board
+    - text: Board Guide
+      href: /board
+    - text: Committee Guide
+      href: /committees
 
 secondary:
-  - text: Documentation
-    href: /
-  - text: Theme
-    href: /
+  - text: Home
+    href: https://ncmanager.org
+  - text: Sign in
+    href: https://ncmanager.org/users/sign_in
+
+footer:
+  - text: Terms of Service
+    href: https://ncmanager.org/terms_of_service
+  - text: Privacy Policy
+    href: https://ncmanager.org/privacy_policy
 
 docs:
   - text: Sidenav Documentation
@@ -117,45 +95,3 @@ committees:
   - text: Get Recommendations to the Board
     href: /committees/get-on-board-agenda
 
-# Uncomment the 'links' sections below to use footer link columns
-# with the 'big' footer style.
-footer:
-  - text: Documentation
-    href: /
-    links:
-      - text: Overview
-        href: /
-      - text: Secondary documentation page
-        href: /
-      - text: Tertiary docs
-        href: /
-  - text: Navigation section
-    href: /
-    links:
-      - text: Demo link A
-        href: /
-      - text: Demo link B
-        href: /
-      - text: Demo link C
-        href: /
-  - text: External links
-    href: /
-    links:
-      - text: 18F
-        href: https://18f.gsa.gov
-        external: true
-      - text: Technology Transformation Service
-        href: https://join.tts.gsa.gov/
-        external: true
-      - text: code.gov
-        href: https://code.gov/
-        external: true
-  - text: Privacy policy
-    href: /
-#   links:
-#     - text: Demo link A
-#       href: /three/a/
-#     - text: Demo link B
-#       href: /three/b/
-#     - text: Demo link C
-#       href: /three/c/
