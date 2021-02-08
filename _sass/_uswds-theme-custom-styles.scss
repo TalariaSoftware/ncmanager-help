@@ -25,3 +25,10 @@
 .usa-pagination {
   justify-content: flex-end;
 }
+
+.footnotes {
+  @include u-font('serif', '3xs');
+  @include u-border-top(1px);
+  @include u-text('base-darker');
+  max-width: 78ex;
+}
