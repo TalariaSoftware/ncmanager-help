@@ -74,19 +74,20 @@ layout: home
       </header>
       <div class='usa-card__body'>
         <p>
-        The governing board is probably
-        the most well-known part
+        Committees are
+        the most important part
         of the neighborhood council system.
-        In some senses,
-        the board is
-        the neighborhood council.
+        They are where
+        the work
+        of the neighborhood councils
+        gets done.
         </p>
 
         <p>
         This guide is designed
         to give you
         everything you need
-        to lead your board
+        to lead your committee
         to success.
         </p>
       </div>
