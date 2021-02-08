@@ -5377,3 +5377,4 @@ i.e.
 .usa-pagination__view-all { margin-left: 0.5rem; text-decoration: none; }
 @media all and (min-width: 40em) { .usa-pagination--centered .usa-pagination__list { margin-left: auto; margin-right: auto; } }
 .usa-pagination { justify-content: flex-end; }
+.footnotes { font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif; font-size: 0.79rem; border-top-width: 1px; border-top-style: solid; color: #3d4551 ; max-width: 78ex; }
