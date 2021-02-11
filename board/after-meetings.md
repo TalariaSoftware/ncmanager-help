@@ -14,7 +14,9 @@ with relevant laws and regulations.
 
 After your committee meeting
 you need to
-[publish the meeting minutes](publish-minutes) and
-[publish updated and approved minutes](publish-approved-minutes).
+[publish the meeting minutes](publish-minutes),
+[publish updated and approved minutes](publish-approved-minutes),
+and fill out
+[Board Action Certification forms](bac-forms).
 
-<!-- CIS, BAC -->
+<!-- CIS -->

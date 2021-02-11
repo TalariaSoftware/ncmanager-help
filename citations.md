@@ -29,6 +29,10 @@ DONE
 
 > Los Angeles, CA, Dept. of Neighborhood Empowerment, Plan for a Citywide System of Neighborhood Councils Art. 3 Sec. 2(a)(ii)
 
+Clerk
+
+> Los Angeles, CA, Office of the City Clerk, Administrative Services Division, Neighborhood Council Funding Program, [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.4 - Expenditures of Community Improvement Projects 5(a)(i)
+
 Robert's Rules:
 
 > RONR (11<sup>th</sup> ed.), p. 449, II. 12-14
