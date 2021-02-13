@@ -10,7 +10,7 @@ task :test do
     check_img_http: true,
     check_sri: true,
     http_status_ignore: [999], # Fake status used by LinkedIn
-    nforce_https: true,
+    enforce_https: true,
     parallel: { in_processes: 3 },
   }
   proofer = HTMLProofer.check_directory('./_site', options)
