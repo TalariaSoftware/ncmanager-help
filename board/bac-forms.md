@@ -4,18 +4,33 @@ permalink: /:path/:basename
 ---
 
 The board
-of the neighborhood council exercises all of the government authority of the
-neighborhood council. That includes the financial authority to spend
-neighborhood council funds. But for the City Clerk to direct those funds,
-according to the board's decision, they need a documentation that indicating
-what the board's decision was. This is known as the Board Action Certification
-form, or BAC for short.
+of the neighborhood council
+exercises all
+of the governmental authority
+of the neighborhood council.
+That includes the financial authority
+to spend neighborhood council funds.
+For the City Clerk
+to direct those funds,
+according to the board's decisions,
+they need documentation indicating what
+the board's decision was.
+This is known
+as the Board Action Certification form,
+or BAC for short.
 
-A BAC can be requested by any city department as proof of a neighborhood council
-board action, but most often it is required by the City Clerk's office for
-decisions regarding neighborhood council finances.
+A BAC can be requested
+by any city department
+as proof
+of a neighborhood council board action,
+but most often
+it is required
+by the City Clerk's office
+for actions
+regarding neighborhood council finances.
 
-The City Clerk requires a BAC in order to:
+The City Clerk requires a BAC
+in order to:
 
 - approve monthly expenditure reports,[^mer]
 - send check payments to vendors,[^checkpayment]
@@ -27,27 +42,44 @@ The City Clerk requires a BAC in order to:
 - approve contracts,[^contract],
 - sponsor or co-sponsor an event,[^events]
 - increase bank card limits,[^cardlimit]
-- submit a Missing Reciept Affidavit[^missingreciept], or
+- submit a Missing Receipt Affidavit[^missingreciept], or
 - ratify emergency spending[^emergency].
+
+## Filling out a BAC
 
 A board action certification must include:
 
 - the name of the neighborhood council,
 - the date the action was taken,
 - the budget fiscal year,
-- and the action taken, which is either a board motion or the public benefit
-    statement for a community improvement project or a neighborhood purpose
-    grant.
+- and the action taken,
+  which is either
+  a board motion
+  or the public benefit statement
+  for a community improvement project
+  or a neighborhood purpose grant.
 
- The BAC must have a list of all the board members with their position and their
- vote, as well as the total votes and the board quorum.
+ The BAC must have
+ a list
+ of all the board members
+ with their position
+ and their vote,
+ as well as
+ the total votes
+ and the board quorum.
 
- Finally, the BAC must be signed and dated. For financial items, the BAC must be
- signed by two people authorized to handle financial transactions for the NC.
+ Finally,
+ the BAC must be signed and dated.
+ For financial items,
+ the BAC must be signed
+ by two people authorized
+ to handle financial transactions
+ for the NC.
 
 <!-- We, the authorized signers of the above named Neighborhood Council, declare that the information presented on this form is accurate and complete, and that a public meeting was held in accordance with all laws, policies, and procedures. The above was approved by the Neighborhood Council Board, at a Brown Act compliant public meeting where a quorum of the Board was present. -->
 
-Black BACs are available from the [City Clerk website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
+Black BACs are available
+from the [City Clerk website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
 
 
 [^mer]:
