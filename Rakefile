@@ -2,6 +2,22 @@ require 'html-proofer'
 
 task :default => [:test]
 
+module HTMLProofer
+  class Cache
+    # HTMLProofer writes to the cache twice, once after checking the external
+    # URLS (when HTMLProofer::Runner#validate_external_urls calls
+    # UrlValidator#run) and then again after checking internal URLs (in
+    # HTMLProofer::Runner#validate_internal_urls).
+    #
+    # The second write erases the first write, making it useless. This is a hack
+    # workaround to keep that from happening by not writing to the cache log
+    # when it is empty.
+    def write
+      File.write(cache_file, @cache_log.to_json) unless @cache_log.empty?
+    end
+  end
+end
+
 task :test do
   sh 'bundle exec jekyll build --future'
   options = {
