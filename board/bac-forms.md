@@ -5,19 +5,18 @@ permalink: /:path/:basename
 
 The board
 of the neighborhood council
-exercises all
-of the governmental authority
+exercises all the governmental authority
 of the neighborhood council.
-That includes the financial authority
+That includes the authority
 to spend neighborhood council funds.
 For the City Clerk
 to direct those funds,
-according to the board's decisions,
+according to the board's actions,
 they need documentation indicating what
-the board's decision was.
-This is known
-as the Board Action Certification form,
-or BAC for short.
+the board's action was.
+This is provided
+by the Board Action Certification form,
+or BAC, for short.
 
 A BAC can be requested
 by any city department
@@ -45,41 +44,171 @@ in order to:
 - submit a Missing Receipt Affidavit[^missingreciept], or
 - ratify emergency spending[^emergency].
 
-## Filling out a BAC
+## Completing a BAC
 
-A board action certification must include:
+The City Clerk provides
+a black BAC form
+on their [website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
 
-- the name of the neighborhood council,
-- the date the action was taken,
-- the budget fiscal year,
-- and the action taken,
-  which is either
-  a board motion
-  or the public benefit statement
-  for a community improvement project
-  or a neighborhood purpose grant.
+To complete the BAC form,
+you must fill in
+the following information.
 
- The BAC must have
- a list
- of all the board members
- with their position
- and their vote,
- as well as
- the total votes
- and the board quorum.
+### Neighborhood Council Name
 
- Finally,
- the BAC must be signed and dated.
- For financial items,
- the BAC must be signed
- by two people authorized
- to handle financial transactions
- for the NC.
+The BAC documents
+an official action taken
+by the neighborhood council
+so it must specify
+what neighborhood council
+took the action.
 
-<!-- We, the authorized signers of the above named Neighborhood Council, declare that the information presented on this form is accurate and complete, and that a public meeting was held in accordance with all laws, policies, and procedures. The above was approved by the Neighborhood Council Board, at a Brown Act compliant public meeting where a quorum of the Board was present. -->
+### Date
 
-Black BACs are available
-from the [City Clerk website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
+The BAC documents
+an official action taken
+by the neighborhood council
+so it must specify when
+the neighborhood council
+took the action.
+
+This should be
+the date
+of the meeting
+when the board action
+was taken.
+
+### Board Motion
+
+The BAC documents
+an official action taken
+by the neighborhood council
+so it must specify what
+the action is.
+
+The text
+of this section
+should be
+the exact text
+of the motion
+that the board passed
+at its meeting.[^publicbenefitstatement]
+
+[^publicbenefitstatement]:
+    If the board action
+    was to approve
+    a Community Impact Program (CIP)
+    or a Neighborhood Purpose Grant (NPG)
+    than instead of the board motion,
+    the BAC could include
+    the Public Benefit Statement
+    from the CIP or NPG.
+
+### Fiscal Year
+
+The fiscal year
+of City of Los Angeles
+starts on July 1
+and ends on June 30.
+
+The BAC should indicate
+what fiscal year
+the action
+pertains to.
+
+City policy
+requires that
+all neighborhood council actions
+pertain only to
+the current fiscal year.
+So the fiscal year listed
+on the BAC,
+should be the same
+as the fiscal year
+for the date
+of the action.
+
+### Vote Count
+
+The BAC must have
+a list
+of all the board members
+with their position
+and their vote.
+
+If a board member
+is absent,
+ineligible
+to vote on this action,
+recused
+from voting on this action,
+or abstains
+from voting,
+that should be recorded.
+
+### Quorum
+
+The BAC should have
+the number
+of board members required
+to make quorum.
+This documents
+that the action
+was taken
+in accordance
+with the rules
+regarding quorum.
+
+Quorum
+for the board
+is defined
+in the NC Bylaws
+in article V, section 2,
+and is usually,
+more than half
+of the board seats.
+
+### Totals
+
+The BAC should specify
+the total number
+of board members
+voting yes,
+voting no,
+abstaining,
+absent,
+ineligible,
+or recused.
+
+## Signing a BAC
+
+Before a BAC
+will be accepted
+and acted on
+by the City Clerk,
+it must be signed
+and dated
+by two people,
+authorized to sign
+for the neighborhood council.
+
+For financial matters,
+the only authorized signers
+are the treasurer,
+and the second signers
+elected by the board.
+
+When you sign a BAC
+you are declaring
+that the information
+on the BAC
+is accurate and complete.
+You are also declaring
+that the action taken
+followed the rules
+regarding public meetings,
+the Brown Act,
+and quorum.
 
 
 [^mer]:
