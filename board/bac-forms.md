@@ -5,7 +5,8 @@ permalink: /:path/:basename
 
 The board
 of the neighborhood council
-exercises all the governmental authority
+exercises all
+the governmental authority
 of the neighborhood council.
 That includes the authority
 to spend neighborhood council funds.
@@ -16,14 +17,14 @@ they need documentation indicating what
 the board's action was.
 This is provided
 by the Board Action Certification form,
-or BAC, for short.
+or BAC for short.
 
 A BAC can be requested
 by any city department
 as proof
 of a neighborhood council board action,
-but most often
-it is required
+but it is
+most often required
 by the City Clerk's office
 for actions
 regarding neighborhood council finances.
@@ -47,14 +48,14 @@ in order to:
 ## Completing a BAC
 
 The City Clerk provides
-a black BAC form
+a blank BAC form
 on their [website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
 
 To complete the BAC form,
 you must fill in
-the following information.
+the following information:
 
-### Neighborhood Council Name
+### Neighborhood Council
 
 The BAC documents
 an official action taken
@@ -67,8 +68,9 @@ took the action.
 
 The BAC documents
 an official action taken
-by the neighborhood council
-so it must specify when
+by the neighborhood council.
+Part of that is
+specifying when
 the neighborhood council
 took the action.
 
@@ -99,7 +101,7 @@ at its meeting.[^publicbenefitstatement]
     was to approve
     a Community Impact Program (CIP)
     or a Neighborhood Purpose Grant (NPG)
-    than instead of the board motion,
+    then instead of the board motion,
     the BAC could include
     the Public Benefit Statement
     from the CIP or NPG.
@@ -107,7 +109,8 @@ at its meeting.[^publicbenefitstatement]
 ### Fiscal Year
 
 The fiscal year
-of City of Los Angeles
+of the City
+of Los Angeles
 starts on July 1
 and ends on June 30.
 
@@ -122,13 +125,13 @@ all neighborhood council actions
 pertain only to
 the current fiscal year.
 So the fiscal year listed
-on the BAC,
+on the BAC
 should be the same
 as the fiscal year
 for the date
 of the action.
 
-### Vote Count
+### Votes
 
 The BAC must have
 a list
@@ -144,15 +147,17 @@ recused
 from voting on this action,
 or abstains
 from voting,
-that should be recorded.
+that must be indicated
+on the BAC.
 
 ### Quorum
 
-The BAC should have
-the number
-of board members required
-to make quorum.
-This documents
+The BAC should say
+how many board members
+are needed
+to make a quorum
+of the board.
+This shows
 that the action
 was taken
 in accordance
