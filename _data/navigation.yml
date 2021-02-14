@@ -55,7 +55,7 @@ board:
   - text: Publish Approved Minutes
     href: /board/publish-approved-minutes
   - text: Board Action Certification
-    href: /board/bac-forms
+    href: /board/board-action-certification
 
 committees:
   - text: Committees

@@ -17,6 +17,6 @@ you need to
 [publish the meeting minutes](publish-minutes),
 [publish updated and approved minutes](publish-approved-minutes),
 and fill out
-[Board Action Certification forms](bac-forms).
+[Board Action Certification forms](board-action-certification).
 
 <!-- CIS -->
