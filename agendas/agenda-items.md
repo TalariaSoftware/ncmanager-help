@@ -44,7 +44,7 @@ exceed 20 words."[^549542]
 
 Because
 [call to order,](/agendas/call-to-order)
-taking roll,
+[taking roll,](/agendas/roll-call)
 [general public comment,](/agendas/general-public-comment)
 [approval of the minutes,](/agendas/approval-of-minutes)
 and [adjournment](/agendas/adjournment)
