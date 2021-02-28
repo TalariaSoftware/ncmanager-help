@@ -39,12 +39,17 @@
             </li>
             <li class="usa-nav__primary-item">
               <a class=" usa-nav__link  " href="/board">
-                <span>Board Guide</span>
+                <span>Boards</span>
               </a>
             </li>
             <li class="usa-nav__primary-item">
               <a class=" usa-nav__link  " href="/committees">
-                <span>Committee Guide</span>
+                <span>Committees</span>
+              </a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class=" usa-nav__link  " href="/agendas">
+                <span>Agendas</span>
               </a>
             </li>
           </ul>
