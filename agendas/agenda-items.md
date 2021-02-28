@@ -43,7 +43,7 @@ generally need not
 exceed 20 words."[^549542]
 
 Because
-call to order,
+[call to order,](/agendas/call-to-order)
 taking roll,
 [general public comment,](/agendas/general-public-comment)
 [approval of the minutes,](/agendas/approval-of-minutes)
