@@ -40,6 +40,11 @@ defaults:
       layout: paginated-page
   -
     scope:
+      path: "agendas"
+    values:
+      sidenav: agendas
+  -
+    scope:
       path: "board"
     values:
       sidenav: board

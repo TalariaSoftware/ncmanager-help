@@ -97,4 +97,36 @@ layout: home
     </div>
   </li>
 
+  <li class='tablet:grid-col-4 usa-card'>
+    <div class='usa-card__container'>
+      <header class='usa-card__header'>
+        <h2 class='usa-card__heading'>Agendas</h2>
+      </header>
+      <div class='usa-card__body'>
+        <p>
+        An agenda
+        lets everyone know
+        what is going
+        to be discussed
+        in the meeting.
+        The Brown Act requires
+        that everything
+        that is going
+        to be discussed
+        appear on the agenda.
+        </p>
+
+        <p>
+        This guide is designed
+        to give you
+        everything you need
+        to create complete and compliant agendas.
+        </p>
+      </div>
+      <div class='usa-card__footer'>
+        <a href='/agendas' class='usa-button'>View the Agenda Guide</a>
+      </div>
+    </div>
+  </li>
+
 </ul><!-- end card group -->

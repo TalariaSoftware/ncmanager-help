@@ -1,10 +1,12 @@
 primary:
     - text: All Guides
       href: /
-    - text: Board Guide
+    - text: Boards
       href: /board
-    - text: Committee Guide
+    - text: Committees
       href: /committees
+    - text: Agendas
+      href: /agendas
 
 secondary:
   - text: Home
@@ -24,6 +26,24 @@ docs:
   - text: Sidenav External link
     href: https://18f.gsa.gov
     external: true
+
+agendas:
+  - text: Agendas
+    href: /agendas/
+  - text: Who, When, and Where
+    href: /agendas/who-when-where
+  - text: Agenda Items
+    href: /agendas/agenda-items
+  - text: General Public Comment
+    href: /agendas/general-public-comment
+  - text: Approval of the Minutes
+    href: /agendas/approval-of-minutes
+  - text: Adjournment
+    href: /agendas/adjournment
+  - text: Public Access to Records
+    href: /agendas/public-records
+  - text: Americans with Disability Act
+    href: /agendas/ada-notice
 
 board:
   - text: Governing Board

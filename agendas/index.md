@@ -1,6 +1,5 @@
 ---
-title: Create an Agenda
-permalink: /:path/:basename
+title: Agendas
 ---
 
 An agenda
@@ -9,10 +8,9 @@ what is going
 to be discussed
 in the meeting.
 This helps people decide
-whether or not
-they should attend
+if they should attend
 and also helps them
-show up prepared
+prepare for
 when they do
 attend the meeting.
 
@@ -32,8 +30,11 @@ aware of
 and participate in
 the deliberations of government.
 
-Take a look
-at the [Agenda Guide](/agendas)
-for information
-about creating
-neighborhood council agendas.
+This guide is designed
+to give you
+everything you need
+to create agendas
+that are complete,
+easy to understand,
+and compliant
+will all applicable laws and regulations.
