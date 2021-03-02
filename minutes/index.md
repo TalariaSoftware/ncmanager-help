@@ -81,10 +81,10 @@ committee.
 Finally, shorter minutes are easier to use as reference when researching or
 verifying things done in previous meetings.
 
-[^requirements]:
+[^ronr48]:
     Robert's Rules of Order, primarily §48 par 1-8.
 
-[^requirements]:
+[^boncreqs]:
     [Policy Number 2016-01 (1).](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 
 ## Introduction
@@ -172,6 +172,15 @@ leave before the meeting is adjourned. This is required by the Board of
 Neighborhood Commissioners for neighborhood council boards[^boncattendance] and
 is also a good idea for NC committees.
 
+Example:
+
+> [10:32 am] The roll was called.
+> Present (3): Janet Della-Denunzio, Tahani Al-Jamil, and Chidi Anagonye
+> Absent (1): Jason Mendoza
+
+> [10:34 am] Eleanor Shellstrop arrived at the meeting
+> [10:36 am] Jason Mendoza left the meeting
+
 [^bylawsattendance]:
     See the NC bylaws article V section 7 for board member attendance
     requirements.
@@ -186,25 +195,111 @@ is also a good idea for NC committees.
 
 ## Main motions
 
-The minutes must also include all main motions taken up
-
 - All main motions taken up [RR] aka Actions taken [BONC]
   - Wording as adopted or otherwise disposed [RR]
-  - Disposition (passed, failed, postponed, refered to committee)
+  - Disposition (passed, failed, postponed, referred to committee)
   - Mover [RR]
   - Not the seconder unless ordered by the assembly [RR]
   - Board votes by name [BONC]
   - Vote count [BONC]
 
+Meeting minutes should describe all the actions considered by the assembly at
+the meeting.[^ronrallmain] This means that all the main motions that were taken
+up.
+
+The description of the main motion should include the final wording of the
+motion[^ronrfinalwording] as well as how it was disposed of. Usually a motion is
+voted on, but it can also be postponed or referred to committee.
+
+If the motion was voted on, the minutes should include the vote count, the vote
+of each board member (yes, no, abstain, recused, ineligible, or absent), and the
+outcome of the vote (passed or failed).[^boncactions]
+
+The minutes should also include the person who made the motion, but not the
+person who seconded it.[^ronrmover]
+
+[^ronrallmain]:
+    "The body of the minutes ... should show: 6) all main motions or motions to
+    bring a main question again before the assembly."
+    RONR (12<sup>th</sup>&nbsp;ed.) 48:4
+
+[^ronrfinalwording]:
+    "the wording in which each motion was adopted of otherwise disposed of"
+    RONR (12<sup>th</sup>&nbsp;ed.) 48:4(6)(b)
+
+[^boncactions]:
+    "Minutes shall contain: ... 3. The actions taken on any agenda items, the
+    board count vote of each board member by name, noting how they voted"
+    Los Angeles, CA,
+    Board of Neighborhood Commissioners,
+    [Policy No. 2016-01 (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
+
+Example:
+> [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
+>
+> The motion voted on was: "Approve funding up to $7,500 for NCMS."
+>
+> Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio
+> Noes (0): none
+>
+> The motion passed.
+
+[^ronrmover]:
+    "The name of the maker of a main motion should be entered into the minutes,
+    but the name of the seconder should not be entered unless ordered by the
+    assembly."
+    RONR (12<sup>th</sup>&nbsp;ed.) 48:5(1)
+
 ## Other actions
 
-- Other actions
-  - As necessary to understand
+Meeting minutes may also include a record of other actions at the meeting, if
+necessary for completeness or clarity.
+
+Care should be taken to limit extraneous information as much as possible. To use
+an example from Robert's Rules of order "The name and subject of a guest speaker
+can be given, but no efforts should be made to summarize [their]
+remarks."[^ronrguest]
+
+For example:
+> [7:25 pm] Todd Hemple gave a presentation on parking at parks.
+
+[^ronrguest]:
+    RONR (12<sup>th</sup>&nbsp;ed.) 48:5(6)
 
 ## Ending
 
-- End time [BONC]
+The body of the minutes should end with the last thing that happened in the
+meeting, to wit, the time of adjournment.
+
+For example:
+> [7:55 pm] Meeting adjourned.
+
+[^ronrmover]:
+    "The last paragraph should state: 12) the hour of adjournment."
+    RONR (12<sup>th</sup>&nbsp;ed.) 48:4
 
 ## Abstentions
 
-- How abstensions are counted [BONC]
+The Board of Neighborhood Commissioners requires that the minutes for the
+neighborhood council board meetings note how the neighborhood council counts
+abstentions.[^boncabstentions]:
+
+Most neighborhood councils do not count abstentions as votes. For them the
+notice could look like this:
+
+> The neighborhood council does not count abstentions as votes
+
+Some neighborhood councils count abstentions as yes votes. For them the notice
+could look like this:
+
+> The neighborhood council counts abstentions as yes votes
+
+How a neighborhood council counts abstentions is described by their bylaws in
+article V, section 3.
+
+[^boncabstentions]:
+    "The minutes shall also note how the Neighborhood Council counts
+    abstentions."
+    Los Angeles, CA,
+    Board of Neighborhood Commissioners,
+    [Policy No. 2016-01 (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
