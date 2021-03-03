@@ -52,6 +52,11 @@
                 <span>Agendas</span>
               </a>
             </li>
+            <li class="usa-nav__primary-item">
+              <a class=" usa-nav__link  " href="/minutes">
+                <span>Minutes</span>
+              </a>
+            </li>
           </ul>
           <div class="usa-nav__secondary">
             <ul class="usa-unstyled-list usa-nav__secondary-links">
