@@ -38,7 +38,7 @@ layout: home
 
 <ul class='usa-card-group'>
 
-  <li class='tablet:grid-col-4 usa-card'>
+  <li class='tablet:grid-col-6 usa-card'>
     <div class='usa-card__container'>
       <header class='usa-card__header'>
         <h2 class='usa-card__heading'>The Board</h2>
@@ -67,7 +67,7 @@ layout: home
     </div>
   </li>
 
-  <li class='tablet:grid-col-4 usa-card'>
+  <li class='tablet:grid-col-6 usa-card'>
     <div class='usa-card__container'>
       <header class='usa-card__header'>
         <h2 class='usa-card__heading'>Committees</h2>
@@ -97,7 +97,7 @@ layout: home
     </div>
   </li>
 
-  <li class='tablet:grid-col-4 usa-card'>
+  <li class='tablet:grid-col-6 usa-card'>
     <div class='usa-card__container'>
       <header class='usa-card__header'>
         <h2 class='usa-card__heading'>Agendas</h2>
@@ -125,6 +125,43 @@ layout: home
       </div>
       <div class='usa-card__footer'>
         <a href='/agendas' class='usa-button'>View the Agenda Guide</a>
+      </div>
+    </div>
+  </li>
+
+  <li class='tablet:grid-col-6 usa-card'>
+    <div class='usa-card__container'>
+      <header class='usa-card__header'>
+        <h2 class='usa-card__heading'>Minutes</h2>
+      </header>
+      <div class='usa-card__body'>
+        <p>
+        Minutes are
+        the official record
+        of neighborhood council
+        meetings.[^ronrrecord]
+        They say
+        what organization was assembled,
+        when and where
+        the meeting was held,
+        what members
+        were present,
+        and what actions
+        were taken
+        by the assembly.
+        </p>
+
+        <p>
+        This guide is designed
+        to give you
+        everything you need
+        to create
+        excellent minutes
+        for your neighborhood council.
+        </p>
+      </div>
+      <div class='usa-card__footer'>
+        <a href='/minutes' class='usa-button'>View the Minutes Guide</a>
       </div>
     </div>
   </li>
