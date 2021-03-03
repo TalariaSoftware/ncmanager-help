@@ -53,6 +53,11 @@ defaults:
       path: "committees"
     values:
       sidenav: committees
+  -
+    scope:
+      path: "minutes"
+    values:
+      sidenav: minutes
 
 
 exclude:

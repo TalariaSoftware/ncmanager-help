@@ -121,3 +121,24 @@ committees:
   - text: Get Recommendations to the Board
     href: /committees/get-on-board-agenda
 
+minutes:
+  - text: Minutes
+    href: /minutes/
+  - text: Why Take Minutes
+    href: /minutes/why-take-minutes
+  - text: Introduction
+    href: /minutes/introduction
+  - text: Approval
+    href: /minutes/approval
+  - text: Meeting Start
+    href: /minutes/start
+  - text: Attendance
+    href: /minutes/attendance
+  - text: Main Motions
+    href: /minutes/main-motions
+  - text: Other Actions
+    href: /minutes/other-actions
+  - text: Meeting End
+    href: /minutes/ending
+  - text: Abstentions
+    href: /minutes/abstentions
