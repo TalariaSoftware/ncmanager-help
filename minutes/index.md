@@ -4,11 +4,10 @@ title: Minutes
 
 Minutes are
 the official record
-of neighborhood council assembly
-(boards and committees)
+of neighborhood council
 meetings.[^ronrrecord]
 They say
-what assembly met,
+what organization was assembled,
 when and where
 the meeting was held,
 what members
@@ -35,21 +34,21 @@ for your neighborhood council.
 
 ## Why take minutes
 
-### Regulatory requirements
+### Legal requirements
 
 The Board
 of Neighborhood Commissioners
 requires that
-NC boards
+neighborhood council boards
 keep written minutes
 of all board meetings.[^bonc201601]
 
-NC Bylaws may
+The neighborhood council's bylaws
 often require
 that minutes are taken
-at committee meetings.[^bylawscommitteeminutes]
+at committee meetings as well.[^bylawscommitteeminutes]
 
-Parlimentary procedure
+Finally, parliamentary procedure
 also requires
 minute taking.[^ronr36]
 
@@ -149,7 +148,7 @@ Even if the minutes
 are distributed
 in advance
 and not read
-in the meeting,
+at the meeting,
 the shorter
 the minutes are,
 the easier
@@ -162,8 +161,7 @@ Shorter minutes
 are not only
 easier to correct
 but will also
-have fewer mistakes
-on average.
+have fewer mistakes.
 The less the secretary needs
 to record
 the fewer opportunities
@@ -215,19 +213,23 @@ Example of
 a regular board meeting
 introduction:
 
-> Lake Woebegone Neighborhood Council
-> Governing Board Regular Meeting
-> April 1, 2021 7:00 pm
-> Local Community Center, 123 Lake St, Los Angeles CA
+    Lake Woebegone Neighborhood Council
+    Governing Board Regular Meeting
+    April 1, 2021 7:00 pm
+    Local Community Center
+    123 Lake St.
+    Los Angeles CA
 
 Example of
 a special committee meeting
 introduction:
 
-> Lake Woebegone Neighborhood Council
-> Party Committee Special Meeting
-> April 1, 2021 7:00 pm
-> Local Community Center, 123 Lake St, Los Angeles CA
+    Lake Woebegone Neighborhood Council
+    Party Committee Special Meeting
+    April 1, 2021 7:00 pm
+    Local Community Center
+    123 Lake St.
+    Los Angeles CA
 
 [^ronr484]:
     RONR (12<sup>th</sup>&nbsp;ed.) 41:4(1)-(3)
@@ -246,7 +248,8 @@ clearly marked
 as such.[^ronr4112]
 
 For example:
-> Draft minutes --- not yet approved
+
+    Draft minutes --- not yet approved
 
 Once the minutes
 have been approved,
@@ -257,7 +260,8 @@ with the date
 they were approved on.[^ronr4814]
 
 For example:
-> Approved on March 2, 2021
+
+    Approved on March 2, 2021
 
 [^ronr4112]:
     RONR (12<sup>th</sup>&nbsp;ed.) 41:12
@@ -284,10 +288,11 @@ The meeting minutes
 must contain
 the start time
 of the meeting[^boncstarttime]
-and who is presiding[^ronr4844].
+and who is presiding.[^ronr4844]
 
 For example:
-> [7:01 pm] Meeting called to order. Chidi Anagonye presiding.
+
+    [7:01 pm] Meeting called to order. Chidi Anagonye presiding.
 
 [^ronr315]:
     RONR (12<sup>th</sup>&nbsp;ed.) 3:15
@@ -332,12 +337,12 @@ can be held accountable
 for their attendance
 or lack thereof.[^bylawsattendance]
 
-This requires not only
-a record
-of the roll call
+To achieve this
+the minutes should include
+the roll call
 at the beginning
 of a meeting,
-but also a note
+and a note
 when any members arrive
 after the meeting
 is called to order
@@ -354,12 +359,12 @@ for NC committees.
 
 Example:
 
-> [10:32 am] The roll was called.
-> Present (3): Janet Della-Denunzio, Tahani Al-Jamil, and Chidi Anagonye
-> Absent (1): Jason Mendoza
+    [10:32 am] The roll was called.
+    Present (3): Janet Della-Denunzio, Tahani Al-Jamil, and Chidi Anagonye
+    Absent (1): Jason Mendoza
 
-> [10:34 am] Eleanor Shellstrop arrived at the meeting
-> [10:36 am] Jason Mendoza left the meeting
+    [10:34 am] Eleanor Shellstrop arrived at the meeting
+    [10:36 am] Jason Mendoza left the meeting
 
 [^bylawsattendance]:
     See the NC bylaws
@@ -367,7 +372,7 @@ Example:
     for board member
     attendance requirements.
 
-[^boncstarttime]:
+[^boncattendance]:
      "Minutes shall contain
      at a minimum
      the following information: ...
@@ -463,14 +468,15 @@ who seconded it.[^ronrmover]
     [Policy No. 2016-01 (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 
 Example:
-> [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
->
-> The motion voted on was: "Approve funding up to $7,500 for NCMS."
->
-> Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio
-> Noes (0): none
->
-> The motion passed.
+
+    [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
+
+    The motion voted on was: "Approve funding up to $7,500 for NCMS."
+
+    Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio
+    Noes (0): none
+
+    The motion passed.
 
 [^ronrmover]:
     "The name
@@ -496,13 +502,14 @@ if necessary
 for completeness or clarity.
 
 For example:
-> [7:25 pm] Todd Hemple gave a presentation on parking at parks.
+
+    [7:25 pm] Todd Hemple gave a presentation on parking at parks.
 
 Care should be taken
 to limit extraneous information
 as much as possible.
 For example,
-"The name and subject
+the "name and subject
 of a guest speaker
 can be given,
 but no efforts
@@ -522,12 +529,13 @@ the last thing
 that happened
 in the meeting,
 to wit,
-the time of adjournment.
+the time of adjournment.[^ronradjourn]
 
 For example:
-> [7:55 pm] Meeting adjourned.
 
-[^ronrmover]:
+    [7:55 pm] Meeting adjourned.
+
+[^ronradjourn]:
     "The last paragraph
     should state:
     12) the hour
@@ -541,7 +549,7 @@ of Neighborhood Commissioners requires
 that the minutes
 for neighborhood council
 board meetings
-note how the neighborhood council
+specify how the neighborhood council
 counts abstentions.[^boncabstentions]:
 
 Most neighborhood councils
@@ -552,7 +560,7 @@ the notice
 could look
 like this:
 
-> The neighborhood council does not count abstentions as votes
+    The neighborhood council does not count abstentions as votes
 
 Some neighborhood councils
 count abstentions
@@ -562,7 +570,7 @@ the notice
 could look
 like this:
 
-> The neighborhood council counts abstentions as yes votes
+    The neighborhood council counts abstentions as yes votes
 
 How a neighborhood council
 counts abstentions
