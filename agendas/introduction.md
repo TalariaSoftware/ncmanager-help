@@ -1,12 +1,12 @@
 ---
-title: Who, When, and Where
+title: Introduction
 permalink: /:path/:basename
 ---
 
 The first thing you need
 on your agenda
 is a description
-of who, when, and where.
+of who, what, when, and where.
 
 An agenda needs
 to have
@@ -18,6 +18,11 @@ that is going to be
 a committee
 of the neighborhood council
 or the governing board.
+
+The agenda should indicate
+if the meeting
+is a regular meeting
+or special meeting.
 
 The agenda also needs
 to say
@@ -45,17 +50,19 @@ everything people need
 to be able
 to attend.
 
-Example for an in-person committee meeting:
+Example for an in-person committee regular meeting:
 
       Hill Valley Neighborhood Council Party Committee
+      Regular Meeting
       October 21, 2015 4:30
       Courthouse Mall Community Room
       100 Courthouse Square
       Hill Valley, CA 90000
 
-Example for an online board meeting:
+Example for an online board special meeting:
 
       Hill Valley Neighborhood Council Board
+      Special Meeting
       October 21, 2015 4:30
       Teleconference meeting
       Attend via Zoom: https://zoom.us/j/987654321012

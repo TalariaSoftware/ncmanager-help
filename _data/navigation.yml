@@ -32,8 +32,8 @@ docs:
 agendas:
   - text: Agendas
     href: /agendas/
-  - text: Who, When, and Where
-    href: /agendas/who-when-where
+  - text: Introduction
+    href: /agendas/introduction
   - text: Agenda Items
     href: /agendas/agenda-items
   - text: Call to Order
