@@ -5,9 +5,10 @@ permalink: /:path/:basename
 
 Minutes taken
 at a meeting
-do not become
-the official record until
-they are approved.
+become the official record
+of the assembly
+after they are approved
+by the assembly.
 Until then
 they are draft minutes
 and should be
@@ -21,10 +22,9 @@ For example:
 Once the minutes
 have been approved,
 they should
-be marked
-as approved
-with the date
-they were approved on.[^ronr4814]
+state that,
+along with the date
+that they were approved on.[^ronr4814]
 
 For example:
 

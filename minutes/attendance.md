@@ -17,7 +17,7 @@ can be held accountable
 for their attendance
 or lack thereof.[^bylawsattendance]
 
-To achieve this
+To achieve this,
 the minutes should include
 the roll call
 at the beginning
@@ -35,13 +35,13 @@ of Neighborhood Commissioners
 for neighborhood council boards[^boncattendance]
 and is also
 a good idea
-for NC committees.
+for neighborhood council committees.
 
 Example:
 
     [10:32 am] The roll was called.
-    Present (3): Janet Della-Denunzio, Tahani Al-Jamil, and Chidi Anagonye
-    Absent (1): Jason Mendoza
+    Present (3): Tahani Al-Jamil, Chidi Anagonye, Jason Mendoza
+    Absent (1): Eleanor Shellstrop
 
     [10:34 am] Eleanor Shellstrop arrived at the meeting
     [10:36 am] Jason Mendoza left the meeting
@@ -55,8 +55,8 @@ Example:
 [^boncattendance]:
      "Minutes shall contain
      at a minimum
-     the following information: ...
-     2. The roll call
+     the following information: ... 2.
+     The roll call
      of Neighborhood Council board members,
      noting the time
      of any members

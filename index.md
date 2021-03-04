@@ -143,9 +143,9 @@ layout: home
         Minutes are
         the official record
         of neighborhood council
-        meetings.[^ronrrecord]
+        meetings.
         They say
-        what organization was assembled,
+        what assembly met,
         when and where
         the meeting was held,
         what members
@@ -161,7 +161,11 @@ layout: home
         everything you need
         to create
         excellent minutes
-        for your neighborhood council.
+        for your neighborhood council,
+        minutes that are complete
+        and compliant
+        with all
+        applicable rules and regulations.
         </p>
       </div>
       <div class='usa-card__footer'>

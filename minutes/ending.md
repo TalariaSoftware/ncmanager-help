@@ -10,7 +10,17 @@ the last thing
 that happened
 in the meeting,
 to wit,
-the time of adjournment.[^ronradjourn]
+the adjournment
+and the time it happened.[^ronradjourn]
+
+Because it is
+the last thing
+that happened
+at the meeting,
+it should be
+the last item
+in the body
+of the meeting minutes.
 
 For example:
 

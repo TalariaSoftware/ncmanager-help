@@ -22,8 +22,9 @@ as well
 as how it was
 disposed of.
 Usually a motion
-is voted on,
-but it can also
+is voted on
+and either passes or fails.
+But it can also
 be postponed
 or referred
 to committee.
@@ -67,8 +68,8 @@ who seconded it.[^ronrmover]
     RONR (12<sup>th</sup>&nbsp;ed.) 48:4(6)(b)
 
 [^boncactions]:
-    "Minutes shall contain: ...
-    3. The actions taken
+    "Minutes shall contain: ... 3.
+    The actions taken
     on any agenda items,
     the board count vote
     of each board member
@@ -82,7 +83,7 @@ Example:
 
     [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
 
-    The motion voted on was: "Approve funding up to $7,500 for NCMS."
+    The motion voted on was: "Approve funding up to $12,500 for NCMS."
 
     Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio
     Noes (0): none

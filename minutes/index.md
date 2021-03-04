@@ -7,7 +7,7 @@ the official record
 of neighborhood council
 meetings.[^ronrrecord]
 They say
-what organization was assembled,
+what assembly met,
 when and where
 the meeting was held,
 what members
@@ -21,7 +21,11 @@ to give you
 everything you need
 to create
 excellent minutes
-for your neighborhood council.
+for your neighborhood council,
+minutes that are complete
+and compliant
+with all
+applicable rules and regulations.
 
 [^ronrrecord]:
     "The official record

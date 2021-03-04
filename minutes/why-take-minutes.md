@@ -3,7 +3,7 @@ title: Why Take Minutes
 permalink: /:path/:basename
 ---
 
-## Legal requirements
+## Regulatory requirements
 
 The Board
 of Neighborhood Commissioners
@@ -12,7 +12,7 @@ neighborhood council boards
 keep written minutes
 of all board meetings.[^bonc201601]
 
-The neighborhood council's bylaws
+Neighborhood councils bylaws
 often require
 that minutes are taken
 at committee meetings as well.[^bylawscommitteeminutes]
@@ -56,17 +56,17 @@ than the regulatory requirements
 are the benefits
 of taking minutes.
 Minutes are
-the record
-of NC meetings.
+the official record
+of neighborhood council meetings.
 
 Written minutes allow
-NC members, stakeholders,
+neighborhood council members, stakeholders,
 and the general public
 to be aware
-of NC board and committee activity.
+of the neighborhood council's activity.
 This transparency is
 vitally important
-for an NC
+for a neighborhood council
 because it is
 a government body
 that should be answerable
@@ -78,7 +78,7 @@ by the members
 of what
 the board or committee
 has done.
-Written and approved minutes eliminate
+Well-written and approved minutes eliminate
 potential ambiguity
 and uncertainty
-about the NC's actions.
+about the neighborhood council's actions.

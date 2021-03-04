@@ -7,7 +7,7 @@ Meeting minutes
 may also include
 a record
 of other actions
-at the meeting,
+at the meeting
 if necessary
 for completeness or clarity.
 
