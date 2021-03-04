@@ -7,15 +7,16 @@ The call to order is
 the first thing
 that happens
 at a Neighborhood Council meeting.
-This is when
-the presiding officer
-announces the start
-of the meeeting.[^ronr315]
+When the presiding officer
+announces that the meeting
+has started,
+that is known as
+the call to order.[^ronr315]
 
 Because it is
 the first thing
 that happens
-at an NC meeting,
+at a neighborhood council meeting,
 it should be
 the first item
 on the meeting agenda.

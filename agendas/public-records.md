@@ -3,19 +3,22 @@ title: Public Access to Records
 permalink: /:path/:basename
 ---
 The Department of Neighborhood Empowerment requires
-that all Neighborhood Council agendas
+that all neighborhood council agendas
 include language
-describing the public's access
-to records
+informing the public
+of their right
+to access government records
 as ensured
-by the Brown Act.
+by the California Public Records Act (CPRA).
 
 To assure compliance
 with their regulations,
-the Department of Neighborhood Empowerment (DONE)
+the Department of Neighborhood Empowerment
 will not publish
 an agenda that does not
 include this information.
+
+Example CPRA notice:
 
       *Public Access to Records*
 

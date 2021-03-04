@@ -4,19 +4,21 @@ permalink: /:path/:basename
 ---
 
 The Department of Neighborhood Empowerment requires
-that all Neighborhood Council agendas
-include information
-about the public's rights
+that all neighborhood council agendas
+include language
+informing the public
+of their rights
 under the Americans with Disabilities Act (ADA).
 
-To assure compliance,
-the Department of Neighborhood Empowerment (DONE)
+To assure compliance
+with their regulations,
+the Department of Neighborhood Empowerment
 will not publish
 an agenda
 that does not
 include this information.
 
-Example:
+Example ADA notice:
 
     *The Americans with Disabilities Act*
 

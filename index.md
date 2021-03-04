@@ -120,7 +120,11 @@ layout: home
         This guide is designed
         to give you
         everything you need
-        to create complete and compliant agendas.
+        to create agendas
+        that are complete
+        and compliant
+        with all
+        applicable rules and regulations.
         </p>
       </div>
       <div class='usa-card__footer'>
