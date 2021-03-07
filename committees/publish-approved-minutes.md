@@ -4,7 +4,7 @@ permalink: /:path/:basename
 ---
 
 One of the most important things
-that an NC committee does
+that a neighborhood council committee does
 at a meeting
 is approve the minutes
 of the previous meeting.
@@ -24,6 +24,6 @@ and the date
 they were approved on.
 The updated minutes
 should be published
-on the NC website
+on the neighborhood council website
 and wherever else
-your NC records are kept.
+your neighborhood council records are kept.

@@ -21,11 +21,10 @@ Fortunately,
 the chairperson can delegate
 any or all of it
 to people
-they trust
-will complete it successfully.
+they trust.
 
-The committee chair is appointed
-by majority vote
+The committee chair is usually appointed
+by a majority vote
 of the board.[^majorityvote]
 
 [^cochairs]:
@@ -47,7 +46,7 @@ of the board.[^majorityvote]
     on what goes
     into the agenda,
     there is no way
-    to resolve the disagreement.
+    to resolve the disagreement.[^ronrcochairs
 
     It is also unnecessary.
     A committee chair can delegate
@@ -55,6 +54,16 @@ of the board.[^majorityvote]
     to anyone else
     as they see fit
     to share the workload.
+
+[^ronrcochairs]:
+    "The anomalous title 'co-chairman'
+    should be avoided,
+    as it causes impossible dilemmas
+    in attempts
+    to share the functions
+    of a single position."
+    RONR (12<sup>th</sup>&nbsp;ed.) 13:17
+
 
 [^majorityvote]:
     This is described
@@ -65,3 +74,8 @@ of the board.[^majorityvote]
     be appointed
     by a majority vote
     of the board."
+    If the bylaws are silent,
+    Robert's Rules of Order
+    describe ways the chair
+    may be appointed.
+    RONR (12<sup>th</sup>&nbsp;ed.) 13:17-18

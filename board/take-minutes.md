@@ -19,6 +19,12 @@ what board members were present,
 and what actions were taken
 by the board.
 
+Take a look
+at the [Minutes Guide](/minutes)
+for information
+about taking minutes
+at a neighborhood council meeting.
+
 [^bylawssecretaryminutes]:
     This will usually
     be specified

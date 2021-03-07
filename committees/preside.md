@@ -51,5 +51,4 @@ for leading these meetings.
 However,
 most committees are small
 and do not need
-anywhere near
 that level of formality.

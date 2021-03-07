@@ -14,8 +14,7 @@ That includes the power
 to allocate funds
 and to speak
 on behalf
-of the neighborhood
-to the city.
+of the neighborhood council.
 
 [^governingbody]:
     This is specified

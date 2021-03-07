@@ -8,13 +8,23 @@ layout: home
   <h1>Guides</h1>
 
   <p>
-  Being a part
-  of a neighborhood council
-  means doing
+  Getting involved
+  with a neighborhood council
+  is a powerful way
+  to participate
+  in local government
+  and help make city government
+  more responsive
+  to local needs.
+  </p>
+
+  <p>
+  But it also
+  requires doing
   the difficult, tedious, and time-consuming work
   of complying with
   Robert's Rules of Order,
-  the NC bylaws,
+  the neighborhood council bylaws,
   regulations from the Department of Neighborhood Empowerment,
   the City Charter,
   the Brown Act,
@@ -29,7 +39,8 @@ layout: home
   make it easier,
   so you can spend
   more of your time
-  making government
+  representing your community
+  and making government
   more responsive
   to local needs.
   </p>
@@ -104,23 +115,22 @@ layout: home
       </header>
       <div class='usa-card__body'>
         <p>
-        An agenda
-        lets everyone know
-        what is going
-        to be discussed
+        Agendas are the official notice
+        of neighborhood council meetings.
+        They say
+        what group is boing to meet,
+        when and where
+        the meeting will be held,
+        and what will be discussed
         in the meeting.
-        The Brown Act requires
-        that everything
-        that is going
-        to be discussed
-        appear on the agenda.
         </p>
 
         <p>
         This guide is designed
         to give you
         everything you need
-        to create agendas
+        to create excellent agendas
+        for your neighborhood council &mdash;
         that are complete
         and compliant
         with all
@@ -161,7 +171,7 @@ layout: home
         everything you need
         to create
         excellent minutes
-        for your neighborhood council,
+        for your neighborhood council &mdash;
         minutes that are complete
         and compliant
         with all

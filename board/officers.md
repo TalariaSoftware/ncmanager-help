@@ -1,5 +1,5 @@
 ---
-title: Elect Officers
+title: Board Officers
 permalink: /:path/:basename
 ---
 
@@ -24,7 +24,8 @@ the minimum officers essential
 for conducting business are
 the presiding officer,
 usually called president or chairperson,
-and the secretary.
+and the secretary.[^ronressential]
+
 
 Officers are chosen
 by a majority vote
@@ -41,8 +42,24 @@ The board would need
 to deliberate
 and then vote again.
 
+[^ronressential]:
+    "The minimum essential officers
+    for the conduct
+    of business
+    in a deliberative assembly
+    are a *presiding officer*
+    who conducts the meeting
+    and sees that
+    the rules are observed,
+    and a *secretary* or *clerk*
+    who makes a written record
+    of what is done
+    &mdash; usually called 'the minutes.'"
+    RONR (12<sup>th</sup>&nbsp;ed.) 3:6
+
 [^choosing]:
     This is specified
     by the NC Bylaws
     in article VI, section 3.
-    If not,
+    The process is also described
+    in Robert's Rules of Order §46.

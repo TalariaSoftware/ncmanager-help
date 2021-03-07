@@ -43,8 +43,8 @@ Finally,
 if you have a mailing list
 of people
 who are interested
-in your NC
-or your NC committee,
+in your neighborhood council
+or your neighborhood council committee,
 you may want
 to email the minutes
 to that list also.

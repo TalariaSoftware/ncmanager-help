@@ -27,7 +27,7 @@ and 24 hours in advance
 for special meetings.
 
 If your NC does not
-have a website
+have a website,
 contact your Neighborhood Empowerment Advocate
 at the Department of Neighborhood Empowerment
 and they will

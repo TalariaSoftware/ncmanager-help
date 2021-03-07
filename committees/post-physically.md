@@ -8,7 +8,7 @@ in your neighborhood
 has easy access
 to the web
 or knows to check
-your neighborhood council's website.
+your neighborhood council website.
 It is important to post
 your committee agendas
 in a public location,

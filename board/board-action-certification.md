@@ -11,18 +11,17 @@ of the neighborhood council.
 That includes the authority
 to spend neighborhood council funds.
 For the City Clerk
-to direct those funds,
+to direct those funds
 according to the board's actions,
 they need documentation indicating what
 the board's action was.
 This is provided
-by the Board Action Certification form,
-or BAC for short.
+by the Board Action Certification form (BAC).
 
 A BAC can be requested
 by any city department
-as proof
-of a neighborhood council board action,
+as testament
+to a neighborhood council board action,
 but it is
 most often required
 by the City Clerk's office
@@ -169,7 +168,7 @@ for the board
 is defined
 in the NC Bylaws
 in article V, section 2,
-and is usually,
+and is usually
 more than half
 of the board seats.
 
@@ -193,13 +192,13 @@ and acted on
 by the City Clerk,
 it must be signed
 and dated
-by two people,
+by two people
 authorized to sign
 for the neighborhood council.
 
 For financial matters,
 the only authorized signers
-are the treasurer,
+are the treasurer
 and the second signers
 elected by the board.
 
@@ -292,7 +291,6 @@ and quorum.
     [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.4 -
     Expenditures for Neighborhood Purposes Grants
     1(g).
-
     See also 7(a)(i).
 
 [^cip]:

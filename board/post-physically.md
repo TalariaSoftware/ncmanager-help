@@ -8,7 +8,7 @@ in your neighborhood
 has easy access
 to the web
 or knows to check
-your neighborhood council's website.
+your neighborhood council website.
 It is important to post
 your board agendas
 in a public location,
@@ -27,9 +27,9 @@ of these postings.[^postinglocation]
 Find out this location
 for your Neighborhood Council,
 and post your agenda there
-at least seventy-two hours
+at least 72 hours
 before a regular meetings
-and twenty-four hours
+and 24 hours
 before a special meeting.
 
 [^bonc2014011]:

@@ -18,8 +18,8 @@ on the agenda,
 hears from everyone
 who wants
 to participate,
-and guides the committee
-to make decisions.
+and guides the board
+in making decisions.
 
 Parliamentary procedure,
 such as codified
@@ -59,7 +59,7 @@ the office is vacant,
 if the president/chairperson is absent,
 or if they have recused themselves.
 When this happens,
-most NC bylaws
+most neighborhood council bylaws
 specify that the vice-president/vice-chairperson
 takes their place
 as the presiding officer.[^bylawsart6sec2]

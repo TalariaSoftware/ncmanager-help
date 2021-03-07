@@ -9,7 +9,7 @@ can distribute information
 about the City Council
 as well as
 other commissions, committees, departments, and boards,
-including neighborhood councils.
+including neighborhood council committees.
 Interested members
 of the public
 can sign up

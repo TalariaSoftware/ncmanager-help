@@ -4,8 +4,8 @@ permalink: /:path/:basename
 ---
 
 An agenda
-lets everyone know
-what is going
+provides notice
+of what is going
 to be discussed
 in the meeting.
 This helps people decide

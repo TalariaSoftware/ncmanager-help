@@ -4,7 +4,7 @@ permalink: /:path/:basename
 ---
 
 All actions, recommendations, and policies
-of an NC committee
+of an neighborhood council committee
 are subject
 to approval
 by official action
@@ -14,7 +14,7 @@ can only approve things
 that are
 on their agenda.
 
-Thus if your committee
+Thus, if your committee
 has made any recommendations,
 it's important
 to get that
@@ -31,7 +31,7 @@ onto the board agenda.[^bylaws82]
 [^bylaws73A]:
     This is laid out
     in Article VII, Section 3, subsection A
-    of the NC bylaws.
+    of the neighborhood council bylaws.
 
 [^bylaws82]:
     Check your NC bylaws,

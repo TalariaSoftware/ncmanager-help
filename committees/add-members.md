@@ -31,7 +31,7 @@ They do not need
 to be a board member.
 In some cases
 they do not even need
-to be a stakeholder.[^bylawsappointment]
+to be a stakeholder.
 Committee membership is
 a great way
 for people
@@ -91,10 +91,30 @@ in a board meeting.
     of your NC bylaws
     to find out the process
     for your NC.
+    If the bylaws are do not specify,
+    Robert's Rules of Order
+    describe ways the committee members
+    may be appointed.
+    RONR (12<sup>th</sup>&nbsp;ed.) 50:11-17
 
 [^bylawsquorum]:
     The quorum for committees is defined
     in Article VII, Section 3, Paragraph B.
+    If the bylaws are do not specify,
+    then quorum
+    for a committee
+    is a majority
+    of its members.[^ronrquorum]
+
+[^ronrquorum]:
+    "The quorum
+    in a committee
+    is a majority
+    of its membership
+    unless the assembly
+    has proscribed
+    a different quorum."
+    RONR (12<sup>th</sup>&nbsp;ed.) 50:21
 
 [^bylawsboardmember]:
     See Article VII, Section 3, Paragraph B

@@ -21,13 +21,12 @@ to [preside over the meeting](preside)
 and you need someone
 to [take minutes](take-minutes).
 
-This is all
-the responsibility
+This is the responsibility
 of the chair.
 In a small, informally-run committees
 it is common
 for the chair
-to do it themselves,
+to do it all themselves,
 but of course
 they can delegate it
 however they see fit.

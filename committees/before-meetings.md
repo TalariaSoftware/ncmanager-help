@@ -17,7 +17,7 @@ to [ENS](early-notification-system),
 on the [NC website](post-on-the-web),
 and at a [physical location](post-physically).
 
-This is all the responsibility
+This is the responsibility
 of the chair,
 but of course
 they can delegate it

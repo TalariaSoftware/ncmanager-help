@@ -11,15 +11,15 @@ Institute at Cornell University Law School, especially the sections on
 
 ## California Constitution:
 
-> C.A. Const. art. I, § 9, cl. 2.
+> C.A. Const. art. I, §9, cl. 2.
 
 ## California Government Code:
 
-> Cal. Gov. Code § 54954.2
+> Cal. Gov. Code §54954.2
 
 ## LA Charter
 
-> Los Angeles, CA, City Charter § 907
+> Los Angeles, CA, City Charter §907
 
 ## BONC
 

@@ -9,21 +9,20 @@ can distribute information
 about the City Council
 as well as
 other commissions, committees, departments, and boards,
-including neighborhood councils.
+including neighborhood council boards.
 Interested members
 of the public
 can sign up
-and receive,
-via email,
-agendas for city meetings.
+and receive
+agendas for city meetings
+by email.
 
-It is a valuable tool
+ENS is a valuable tool
 for the public
 to stay aware
 of what is happening
 in city government.
-
-ENS was proscribed
+It was proscribed
 in the same part
 of the City Charter
 that created Neighborhood Councils.[^laccsec907]
@@ -44,7 +43,7 @@ to be posted
 to ENS,
 email it
 as a PDF file
-to ncsupport@lacity.org
+to [ncsupport@lacity.org](mailto:ncsupport@lacity.org?subject=Agenda for [[[NC BOARD OR COMMITTEE]]] meeting on [[[DATE]]])
 with the date and title
 of the meeting
 as the email subject.
@@ -73,7 +72,7 @@ as the email subject.
     2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
 
 [^laccsec907]:
-    Los Angeles, CA, City Charter § 907
+    Los Angeles, CA, City Charter §907
 
 [^planart8]:
     Los Angeles, CA,
