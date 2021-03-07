@@ -8,8 +8,8 @@ that the board or committee
 may discuss
 or take action on.
 In order to comply
-with the Brown Act
-an neighborhood council board or committee
+with the Brown Act,
+a neighborhood council board or committee
 can only discuss or act
 on things
 that are on the agenda
@@ -20,7 +20,7 @@ a title for easy reference.
 If necessary,
 it should
 also include
-and a brief description
+a brief description
 of the item.
 
 The agenda item should contain
@@ -57,4 +57,4 @@ listed as items
 on the agenda
 of every meeting.
 
-[^549542]: Cal. Gov. Code § 54954.2
+[^549542]: Cal. Gov. Code §54954.2

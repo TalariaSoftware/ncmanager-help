@@ -15,9 +15,9 @@ of the assembly
 that met.[^ronr4842]
 For neighborhood councils,
 that is going to be
+the governing board or
 a committee
-of the neighborhood council
-or the governing board.
+of the neighborhood council.
 
 The minutes should indicate
 if the meeting
@@ -63,9 +63,8 @@ special committee meeting:
 
     Lake Woebegone Neighborhood Council Party Committee
     Special Meeting
-    April 1, 2021 7:00 pm
-    Teleconference meeting
-    held via Zoom
+    April 2, 2021 7:30 pm
+    Teleconference meeting held via Zoom
 
 [^ronr4842]:
     RONR (12<sup>th</sup>&nbsp;ed.) 48:4(2)

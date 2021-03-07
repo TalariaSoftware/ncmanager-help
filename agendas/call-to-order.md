@@ -10,8 +10,7 @@ at a Neighborhood Council meeting.
 When the presiding officer
 announces that the meeting
 has started,
-that is known as
-the call to order.[^ronr315]
+that is the call to order.[^ronr315]
 
 Because it is
 the first thing
@@ -23,7 +22,7 @@ on the meeting agenda.
 
 Example agenda item:
 
-    Call to Order
+    1. Call to Order
 
 [^ronr315]:
     The call to order is described

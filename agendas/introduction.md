@@ -15,9 +15,8 @@ of the assembly
 that is meeting.
 For neighborhood councils,
 that is going to be
-a committee
-of the neighborhood council
-or the governing board.
+a neighborhood council committee
+or governing board.
 
 The agenda should indicate
 if the meeting
@@ -54,7 +53,7 @@ Example for an in-person committee regular meeting:
 
       Hill Valley Neighborhood Council Party Committee
       Regular Meeting
-      October 21, 2015 4:30
+      October 21, 2015 4:30 pm
       Courthouse Mall Community Room
       100 Courthouse Square
       Hill Valley, CA 90000
@@ -63,8 +62,8 @@ Example for an online board special meeting:
 
       Hill Valley Neighborhood Council Board
       Special Meeting
-      October 21, 2015 4:30
+      October 21, 2015 4:30 pm
       Teleconference meeting
-      Attend via Zoom: https://zoom.us/j/987654321012
+      Attend via Zoom at https://zoom.us/j/987654321012
       Attend by phone by dialing 1-669-900-6833 and entering meeting id 987 6543 21012
 

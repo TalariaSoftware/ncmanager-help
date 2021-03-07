@@ -10,9 +10,9 @@ in the meeting.
 It helps people decide
 if they should attend
 and also helps them
-prepare for
-when they do
-attend the meeting.
+be prepared
+for the meeting
+when they do attend.
 
 The Brown Act requires
 that every topic

@@ -12,7 +12,7 @@ neighborhood council boards
 keep written minutes
 of all board meetings.[^bonc201601]
 
-Neighborhood councils bylaws
+Neighborhood council bylaws
 often require
 that minutes are taken
 at committee meetings as well.[^bylawscommitteeminutes]

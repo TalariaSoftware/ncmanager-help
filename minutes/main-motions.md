@@ -11,7 +11,10 @@ at the meeting.[^ronrallmain]
 This means
 all the main motions
 that were
-taken up.
+taken up
+by the assembly
+should be recorded
+in the minutes.
 
 The description
 of the main motion
@@ -25,7 +28,8 @@ Usually a motion
 is voted on
 and either passes or fails.
 But it can also
-be postponed
+be disposed of
+by being postponed
 or referred
 to committee.
 

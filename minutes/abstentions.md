@@ -8,7 +8,7 @@ of Neighborhood Commissioners requires
 that the minutes
 for neighborhood council
 board meetings
-specify how the neighborhood council
+note how the neighborhood council
 counts abstentions.[^boncabstentions]:
 
 Most neighborhood councils

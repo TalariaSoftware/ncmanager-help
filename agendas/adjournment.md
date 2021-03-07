@@ -27,4 +27,4 @@ on the meeting agenda.
 
 Example agenda item:
 
-    Adjournment
+    12. Adjournment
