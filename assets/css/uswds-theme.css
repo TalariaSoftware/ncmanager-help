@@ -258,7 +258,7 @@ State palette colors
 General colors
 ----------------------------------------
 */
-/* ============================== ============================== ============================== ============================== ======================================== ======================================== ======================================== ---------------------------------------- USWDS 2.7.0 ---------------------------------------- SPACING SETTINGS ---------------------------------------- Read more about settings and USWDS spacing units tokens in the documentation: https://designsystem.digital.gov/design-tokens/spacing-units ---------------------------------------- */
+/* ============================== ============================== ============================== ============================== ======================================== ======================================== ======================================== ---------------------------------------- USWDS 2.9.0 ---------------------------------------- SPACING SETTINGS ---------------------------------------- Read more about settings and USWDS spacing units tokens in the documentation: https://designsystem.digital.gov/design-tokens/spacing-units ---------------------------------------- */
 /*
 ----------------------------------------
 Border radius
@@ -5312,6 +5312,7 @@ available utility palettes
 .usa-sidenav a:hover { background-color: #f0f0f0; color: #1a4480; }
 .usa-sidenav a.usa-current { color: #1a4480; }
 .usa-sidenav a.usa-current:after { background-color: #1a4480; }
+@media all and (min-width: 64em) { .usa-layout-docs__sidenav { flex: 3 1 0% ; order: 1; padding-top: 0; } .usa-layout-docs__main { flex: 9 1 0% ; order: 2; } }
 .usa-header .usa-nav { background-color: white; }
 .usa-header .usa-nav__link:hover { background-color: white; }
 .usa-header .usa-nav__link span { color: #565c65; }
