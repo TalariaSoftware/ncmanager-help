@@ -27,4 +27,4 @@ Example agenda item:
 
     3. General Public Comment on Non-Agenda Items
 
-[^549543]: Cal. Gov. Code § 54954.3
+[^549543]: Cal. Gov. Code §54954.3
