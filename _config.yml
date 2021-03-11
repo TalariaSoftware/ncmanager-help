@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neighborhood Council Management System
+title: Neighborhood Council Guides
 email: info@ncmanager.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Spend less time filling out forms and paperwork, and more time making a difference in your community.
+  Everything you need to know to have a successful and effective neighborhood council.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
