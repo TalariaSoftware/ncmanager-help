@@ -144,3 +144,13 @@ minutes:
     href: /minutes/ending
   - text: Abstentions
     href: /minutes/abstentions
+
+ncms:
+  - text: NCMS
+    href: /ncms/
+  - text: Call to Order
+    href: /ncms/call-to-order
+  - text: Roll Call
+    href: /ncms/roll-call
+  - text: Arrivals and Departures
+    href: /ncms/arrivals-and-departures

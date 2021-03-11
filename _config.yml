@@ -55,6 +55,11 @@ defaults:
       sidenav: committees
   -
     scope:
+      path: "ncms"
+    values:
+      sidenav: ncms
+  -
+    scope:
       path: "minutes"
     values:
       sidenav: minutes
