@@ -154,3 +154,17 @@ ncms:
     href: /ncms/roll-call
   - text: Arrivals and Departures
     href: /ncms/arrivals-and-departures
+  - text: Main Motions
+    href: /ncms/main-motions
+  - text: Votes
+    href: /ncms/votes
+  - text: Other Actions
+    href: /ncms/other-actions
+  - text: Adjournment
+    href: /ncms/adjournment
+  - text: Minutes PDF
+    href: /ncms/minutes-pdf
+  - text: BAC Forms
+    href: /ncms/bac-forms
+  - text: Approved Minutes
+    href: /ncms/approved-minutes
