@@ -22,7 +22,7 @@ on the meeting agenda.
 
 Example agenda item:
 
-    1. Call to Order
+> 1. Call to Order
 
 [^ronr315]:
     The call to order is described

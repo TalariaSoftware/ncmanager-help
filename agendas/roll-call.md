@@ -26,4 +26,4 @@ on the meeting agenda.
 
 Example agenda item:
 
-    2. Roll Call
+> 2. Roll Call
