@@ -148,6 +148,14 @@ minutes:
 ncms:
   - text: NCMS
     href: /ncms/
+  - text: Default Agenda Items
+    href: /ncms/default-agenda-items
+  - text: Agenda Items
+    href: /ncms/agenda-items
+  - text: Agenda Postscripts
+    href: /ncms/agenda-postscripts
+  - text: Agenda PDFs
+    href: /ncms/agenda-pdfs
   - text: Call to Order
     href: /ncms/call-to-order
   - text: Roll Call
