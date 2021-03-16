@@ -9,6 +9,8 @@ primary:
       href: /agendas
     - text: Minutes
       href: /minutes
+    - text: NCMS
+      href: /ncms
 
 secondary:
   - text: Home
