@@ -115,10 +115,10 @@ layout: home
       </header>
       <div class='usa-card__body'>
         <p>
-        Agendas are the official notice
+        Agendas are the official notices
         of neighborhood council meetings.
         They say
-        what group is boing to meet,
+        what group is going to meet,
         when and where
         the meeting will be held,
         and what will be discussed
@@ -151,7 +151,7 @@ layout: home
       <div class='usa-card__body'>
         <p>
         Minutes are
-        the official record
+        the official records
         of neighborhood council
         meetings.
         They say
@@ -161,8 +161,7 @@ layout: home
         what members
         were present,
         and what actions
-        were taken
-        by the assembly.
+		the assembly took.
         </p>
 
         <p>
