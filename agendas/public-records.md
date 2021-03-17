@@ -11,6 +11,16 @@ to access government records
 as ensured
 by the California Public Records Act (CPRA).
 
+<aside class="callout" role="complementary" markdown="1">
+In [NCMS,](/ncms)
+add the CPRA notice
+as an [agenda postscript](/ncms/agenda-postscripts)
+so that
+it is included
+in all
+of the agendas.
+</aside>
+
 To assure compliance
 with their regulations,
 the Department of Neighborhood Empowerment

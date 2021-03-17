@@ -8,6 +8,14 @@ on your agenda
 is a description
 of who, what, when, and where.
 
+<aside class="callout" role="complementary" markdown="1">
+If you use NCMS
+to [create
+a meeting agenda,](/ncms/agenda-pdfs)
+all of this information
+is included automatically.
+</aside>
+
 An agenda needs
 to have
 the name

@@ -3,6 +3,15 @@ title: Call to Order
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+With [NCMS,](/ncms)
+the call to order
+can be one
+of the [default agenda items](/ncms/default-agenda-items)
+automatically added
+every agenda.
+</aside>
+
 The call to order is
 the first thing
 that happens

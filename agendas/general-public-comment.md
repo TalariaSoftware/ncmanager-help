@@ -3,6 +3,15 @@ title: General Public Comment
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+With [NCMS,](/ncms)
+general public comment
+can be one
+of the [default agenda items](/ncms/default-agenda-items)
+automatically added
+every agenda.
+</aside>
+
 The Brown Act requires that
 every agenda include
 an opportunity

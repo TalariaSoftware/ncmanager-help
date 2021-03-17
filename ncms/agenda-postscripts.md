@@ -1,5 +1,5 @@
 ---
-title: Agena Postscripts
+title: Agenda Postscripts
 permalink: /:path/:basename
 ---
 

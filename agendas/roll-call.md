@@ -3,6 +3,15 @@ title: Roll Call
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+With [NCMS,](/ncms)
+roll call
+can be one
+of the [default agenda items](ncms/default-agenda-items)
+automatically added
+every agenda.
+</aside>
+
 After the call to order
 but before
 any other meeting business,

@@ -3,6 +3,15 @@ title: Approval of the Minutes
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+With [NCMS,](/ncms)
+approval of the minutes
+can be one
+of the [default agenda items](/ncms/default-agenda-items)
+automatically added
+every agenda.
+</aside>
+
 It is the policy
 of the Board
 of Neighborhood Commissioners

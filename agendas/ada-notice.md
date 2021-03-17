@@ -10,6 +10,16 @@ informing the public
 of their rights
 under the Americans with Disabilities Act (ADA).
 
+<aside class="callout" role="complementary" markdown="1">
+In [NCMS,](/ncms)
+add the ADA notice
+as an [agenda postscript](/ncms/agenda-postscripts)
+so that
+it is included
+in all
+of the agendas.
+</aside>
+
 To assure compliance
 with their regulations,
 the Department of Neighborhood Empowerment
