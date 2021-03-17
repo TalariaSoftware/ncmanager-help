@@ -20,6 +20,10 @@
   width: 75%;
 }
 
+main blockquote {
+  @include u-font-family('mono')
+}
+
 @import 'uswds-pagination';
 
 .usa-pagination {
