@@ -11,9 +11,15 @@ at the meeting
 if necessary
 for completeness or clarity.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to record [other actions.](/ncms/other-actions)
+</aside>
+
 For example:
 
-    [7:25 pm] Todd Hemple gave a presentation on parking at parks.
+> [7:25 pm] Todd Hemple gave a presentation on parking at parks.
 
 Care should be taken
 to limit extraneous information

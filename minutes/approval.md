@@ -15,9 +15,15 @@ and should be
 clearly marked
 as such.[^ronr4112]
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create approved minutes.](/ncms/approved-minutes)
+</aside>
+
 For example:
 
-    Draft minutes --- not yet approved
+> Draft minutes --- not yet approved
 
 Once the minutes
 have been approved,
@@ -28,7 +34,7 @@ that they were approved on.[^ronr4814]
 
 For example:
 
-    Approved on March 2, 2021
+> Approved on March 2, 2021
 
 [^ronr4112]:
     RONR (12<sup>th</sup>&nbsp;ed.) 41:12

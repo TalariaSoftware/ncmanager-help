@@ -3,6 +3,13 @@ title: Abstentions
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS will include
+this notice
+in all board agendas
+automatically.
+</aside>
+
 The Board
 of Neighborhood Commissioners requires
 that the minutes
@@ -19,7 +26,7 @@ the notice
 could look
 like this:
 
-    The neighborhood council does not count abstentions as votes.
+> The neighborhood council does not count abstentions as votes.
 
 Some neighborhood councils
 count abstentions
@@ -29,7 +36,7 @@ the notice
 could look
 like this:
 
-    The neighborhood council counts abstentions as yes votes.
+> The neighborhood council counts abstentions as yes votes.
 
 How a neighborhood council
 counts abstentions

@@ -17,6 +17,13 @@ can be held accountable
 for their attendance
 or lack thereof.[^bylawsattendance]
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [take roll](/ncms/roll-call)
+and to note [arrivals and departures.](/ncms/arrivals-and-departures)
+</aside>
+
 To achieve this,
 the minutes should include
 the roll call
@@ -39,12 +46,12 @@ for neighborhood council committees.
 
 Example:
 
-    [10:32 am] The roll was called.
-    Present (3): Tahani Al-Jamil, Chidi Anagonye, Jason Mendoza
-    Absent (1): Eleanor Shellstrop
-
-    [10:34 am] Eleanor Shellstrop arrived at the meeting
-    [10:36 am] Jason Mendoza left the meeting
+> [10:32 am] The roll was called.  
+> Present (3): Tahani Al-Jamil, Chidi Anagonye, Jason Mendoza  
+> Absent (1): Eleanor Shellstrop  
+>
+> [10:34 am] Eleanor Shellstrop arrived at the meeting  
+> [10:36 am] Jason Mendoza left the meeting
 
 [^bylawsattendance]:
     See the NC bylaws

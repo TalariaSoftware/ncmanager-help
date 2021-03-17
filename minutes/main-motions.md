@@ -16,6 +16,12 @@ by the assembly
 should be recorded
 in the minutes.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [record main motions.](/ncms/main-motions)
+</aside>
+
 The description
 of the main motion
 should include
@@ -85,14 +91,14 @@ who seconded it.[^ronrmover]
 
 Example:
 
-    [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
-
-    The motion voted on was: "Approve funding up to $12,500 for NCMS."
-
-    Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio
-    Noes (0): none
-
-    The motion passed.
+> [10:34 am] Eleanor Shellstrop made a motion related to agenda item 4.
+>
+> The motion voted on was: "Approve funding up to $12,500 for NCMS."
+>
+> Ayes (5): Eleanor Shellstrop, Chidi Anagonye, Tahani Al-Jamil, Michael Realman, and Janet Della-Denunzio  
+> Noes (0): none
+>
+> The motion passed.
 
 [^ronrmover]:
     "The name

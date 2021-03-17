@@ -13,6 +13,12 @@ to wit,
 the adjournment
 and the time it happened.[^ronradjourn]
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to record the [adjournment.](/ncms/adjournment)
+</aside>
+
 Because it is
 the last thing
 that happened
@@ -24,7 +30,7 @@ of the meeting minutes.
 
 For example:
 
-    [7:55 pm] Meeting adjourned.
+> [7:55 pm] Meeting adjourned.
 
 [^ronradjourn]:
     "The last paragraph

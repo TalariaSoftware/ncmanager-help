@@ -12,6 +12,13 @@ in the meeting,
 to wit,
 the call to order.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [note
+when the meeting starts.](/ncms/call-to-order)
+</aside>
+
 The call to order is when
 the presiding officer announces
 the start
@@ -24,7 +31,7 @@ and who is presiding.[^ronr4844]
 
 For example:
 
-    [7:01 pm] Meeting called to order. Chidi Anagonye presiding.
+> [7:01 pm] Meeting called to order. Chidi Anagonye presiding.
 
 [^ronr315]:
     RONR (12<sup>th</sup>&nbsp;ed.) 3:15
