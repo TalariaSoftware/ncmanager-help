@@ -7,7 +7,7 @@ permalink: /:path/:basename
 With [NCMS,](/ncms)
 roll call
 can be one
-of the [default agenda items](ncms/default-agenda-items)
+of the [default agenda items](/ncms/default-agenda-items)
 automatically added
 every agenda.
 </aside>
