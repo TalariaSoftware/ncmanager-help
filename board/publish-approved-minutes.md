@@ -15,6 +15,12 @@ a correct record
 of what transpired
 at the earlier meeting.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create approved minutes.](/ncms/approved-minutes)
+</aside>
+
 Once the minutes
 are approved
 they should be updated

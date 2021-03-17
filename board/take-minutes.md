@@ -3,6 +3,14 @@ title: Take Minutes
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+Take a look
+at the [Minutes Guide](/minutes)
+for information
+about taking minutes
+at a neighborhood council meeting.
+</aside>
+
 Once you are
 in a meeting,
 it is the responsibility
@@ -18,12 +26,6 @@ when and where the board met,
 what board members were present,
 and what actions were taken
 by the board.
-
-Take a look
-at the [Minutes Guide](/minutes)
-for information
-about taking minutes
-at a neighborhood council meeting.
 
 [^bylawssecretaryminutes]:
     This will usually

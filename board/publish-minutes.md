@@ -15,6 +15,13 @@ right away
 to make them available
 to the general public.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create PDF minutes](/ncms/minutes-pdf)
+for printing and posting.
+</aside>
+
 Publishing your minutes right away
 also allows board members
 to review them

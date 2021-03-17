@@ -46,6 +46,12 @@ in order to:
 
 ## Completing a BAC
 
+<aside class="callout" role="complementary" markdown="1">
+With NCMS,
+Board Action Certification Forms
+are [filled out automatically.](/ncms/bac-forms)
+</aside>
+
 The City Clerk provides
 a blank BAC form
 on their [website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)

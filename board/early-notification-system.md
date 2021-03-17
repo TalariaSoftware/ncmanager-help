@@ -17,6 +17,13 @@ and receive
 agendas for city meetings
 by email.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create PDF agendas](/ncms/agenda-pdfs)
+to send to ENS.
+</aside>
+
 ENS is a valuable tool
 for the public
 to stay aware
