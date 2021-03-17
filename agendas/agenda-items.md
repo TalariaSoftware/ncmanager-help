@@ -15,6 +15,15 @@ on things
 that are on the agenda
 for that meeting.
 
+<aside class="callout" role="complementary" markdown="1">
+Take a look
+at the [NCMS guide](/ncms)
+to see how
+to use NCMS
+to [add items
+to an agenda.](/ncms/agenda-items)
+</aside>
+
 An agenda item should have
 a title for easy reference.
 If necessary,
