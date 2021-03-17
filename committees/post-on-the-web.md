@@ -13,6 +13,14 @@ has a website,
 (and it should)
 you should post your committee agendas there.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create PDF agendas](/ncms/agenda-pdfs)
+to post
+on your neighborhood council website.
+</aside>
+
 BONC policy[^bonc2014011] requires
 that all committee agendas
 are posted

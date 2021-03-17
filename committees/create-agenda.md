@@ -3,6 +3,14 @@ title: Create an Agenda
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+Take a look
+at the [Agenda Guide](/agendas)
+for information
+about creating
+neighborhood council agendas.
+</aside>
+
 An agenda
 lets everyone know
 what is going

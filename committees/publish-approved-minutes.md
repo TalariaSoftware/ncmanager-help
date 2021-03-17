@@ -3,6 +3,12 @@ title: Publish Approved Minutes
 permalink: /:path/:basename
 ---
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create approved minutes.](/ncms/approved-minutes)
+</aside>
+
 One of the most important things
 that a neighborhood council committee does
 at a meeting

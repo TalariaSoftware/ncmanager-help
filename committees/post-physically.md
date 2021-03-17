@@ -16,6 +16,13 @@ so that everyone
 can remain informed
 about upcoming meetings.
 
+<aside class="callout" role="complementary" markdown="1">
+NCMS makes
+it is easy
+to [create PDF agendas](/ncms/agenda-pdfs)
+for printing and posting.
+</aside>
+
 BONC policy requires
 physically posting an agenda
 for all NC committee meetings.[^bonc2014011]
