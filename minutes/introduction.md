@@ -57,20 +57,20 @@ Example introduction
 for an in-person
 regular board meeting:
 
-> Lake Woebegone Neighborhood Council Governing Board
-> Regular Meeting
-> April 1, 2021 7:00 pm
-> Local Community Center
-> 123 Lake St.
+> Lake Woebegone Neighborhood Council Governing Board  
+> Regular Meeting  
+> April 1, 2021 7:00 pm  
+> Local Community Center  
+> 123 Lake St.  
 > Los Angeles CA
 
 Example introduction
 for an online
 special committee meeting:
 
-> Lake Woebegone Neighborhood Council Party Committee
-> Special Meeting
-> April 2, 2021 7:30 pm
+> Lake Woebegone Neighborhood Council Party Committee  
+> Special Meeting  
+> April 2, 2021 7:30 pm  
 > Teleconference meeting held via Zoom
 
 [^ronr4842]:
