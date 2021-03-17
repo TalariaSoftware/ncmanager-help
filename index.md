@@ -161,7 +161,7 @@ layout: home
         what members
         were present,
         and what actions
-		the assembly took.
+        the assembly took.
         </p>
 
         <p>
@@ -179,6 +179,36 @@ layout: home
       </div>
       <div class='usa-card__footer'>
         <a href='/minutes' class='usa-button'>View the Minutes Guide</a>
+      </div>
+    </div>
+  </li>
+
+  <li class='tablet:grid-col-6 usa-card'>
+    <div class='usa-card__container'>
+      <header class='usa-card__header'>
+        <h2 class='usa-card__heading'>NCMS</h2>
+      </header>
+      <div class='usa-card__body'>
+        <p>
+        The Neighborhood Council Management System (NCMS)
+        is a browser-based application
+        built for neighborhood council leaders
+        to make them
+        and their neighborhood councils
+        more effective.
+        </p>
+
+        <p>
+        This guide is designed
+        to show you
+        how to use NCMS
+        to make running
+        your neighborhood council
+        easier and more efficient.
+        </p>
+      </div>
+      <div class='usa-card__footer'>
+        <a href='/ncms' class='usa-button'>View the NCMS Guide</a>
       </div>
     </div>
   </li>
