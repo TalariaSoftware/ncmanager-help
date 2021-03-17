@@ -5355,6 +5355,7 @@ i.e.
 .usa-layout-docs__sidenav, .usa-layout-docs__main { overflow: inherit; }
 .usa-layout-docs__sidenav { width: 25%; }
 .usa-layout-docs__main { width: 75%; }
+main blockquote { font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace; }
 .usa-pagination { margin-bottom: 1rem ; margin-top: 1rem ; align-items: center; display: flex; flex-direction: row; }
 @media all and (min-width: 40em) { .usa-pagination { gap: 1rem; } }
 .usa-pagination__link { background-color: #f9f9f9; border-color: #a9aeb1; border-style: solid; border-radius: 0.25rem; border-width: 1px; display: inline-flex; justify-content: center; padding: 0.5rem; }
@@ -5377,5 +5378,7 @@ i.e.
 @media all and (max-width: 39.99em) { .usa-pagination__previous-page { margin-right: 0.75rem; } }
 .usa-pagination__view-all { margin-left: 0.5rem; text-decoration: none; }
 @media all and (min-width: 40em) { .usa-pagination--centered .usa-pagination__list { margin-left: auto; margin-right: auto; } }
-.usa-pagination { justify-content: flex-end; }
+.usa-pagination { justify-content: flex-end; clear: both; }
 .footnotes { font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif; font-size: 0.79rem; border-top-width: 1px; border-top-style: solid; color: #3d4551 ; max-width: 78ex; }
+aside.callout { border-left-width: 0.5rem; border-left-style: solid; border-left-color: #1a4480 ; border-left-style: solid; margin-bottom: 1rem ; margin-top: 1rem ; margin-left: 0 ; margin-right: 0 ; padding: 1.5rem ; background-color: #f0f0f0 ; float: right ; max-width: 34ex; }
+aside.callout h1, aside.callout h2, aside.callout h3, aside.callout h4 { margin: 0 ; }
