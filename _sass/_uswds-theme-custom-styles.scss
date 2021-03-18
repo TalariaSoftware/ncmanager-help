@@ -42,8 +42,9 @@ aside.callout {
   @include u-border-left(1);
   @include u-border-left('primary-dark');
   @include u-margin-y(2);
-  @include u-margin-x(0);
-  @include u-padding(3);
+  @include u-margin-left(1);
+  @include u-margin-right(0);
+  @include u-padding(2);
   @include u-bg('base-lightest');
   @include u-float('right');
   max-width: 34ex;
