@@ -12,7 +12,7 @@ as ensured
 by the California Public Records Act (CPRA).
 
 <aside class="callout" role="complementary" markdown="1">
-In [NCMS,](/ncms)
+In NCMS,
 add the CPRA notice
 as an [agenda postscript](/ncms/agenda-postscripts)
 so that

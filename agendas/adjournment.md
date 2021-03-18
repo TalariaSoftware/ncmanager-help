@@ -9,7 +9,7 @@ it doesn't seem
 like it will.
 
 <aside class="callout" role="complementary" markdown="1">
-With [NCMS,](/ncms)
+With NCMS,
 adjournment
 can be one
 of the [default agenda items](/ncms/default-agenda-items)

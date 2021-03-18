@@ -4,7 +4,7 @@ permalink: /:path/:basename
 ---
 
 <aside class="callout" role="complementary" markdown="1">
-With [NCMS,](/ncms)
+With NCMS,
 roll call
 can be one
 of the [default agenda items](/ncms/default-agenda-items)

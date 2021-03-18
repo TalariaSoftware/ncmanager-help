@@ -11,7 +11,7 @@ of their rights
 under the Americans with Disabilities Act (ADA).
 
 <aside class="callout" role="complementary" markdown="1">
-In [NCMS,](/ncms)
+In NCMS,
 add the ADA notice
 as an [agenda postscript](/ncms/agenda-postscripts)
 so that

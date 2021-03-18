@@ -17,7 +17,7 @@ for that meeting.
 
 <aside class="callout" role="complementary" markdown="1">
 Take a look
-at the [NCMS guide](/ncms)
+at the NCMS guide
 to see how
 to use NCMS
 to [add items
