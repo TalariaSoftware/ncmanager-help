@@ -48,7 +48,7 @@ on a wider
 range of items.
 
 [^subjecttoapproval]:
-    Article VII, section 3, paragraph A
+    Article VII, section 3, paragraph A,
     of the NC bylaws
     limits the authority
     of committees.

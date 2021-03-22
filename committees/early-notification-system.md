@@ -13,7 +13,7 @@ including neighborhood council committees.
 Interested members
 of the public
 can sign up
-and receive,
+to receive,
 via email,
 agendas for city meetings.
 
@@ -30,7 +30,7 @@ to stay aware
 of what is happening
 in city government.
 
-ENS was proscribed
+ENS was prescribed
 in the same part
 of the City Charter
 that created Neighborhood Councils.[^laccsec907]

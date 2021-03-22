@@ -1,10 +1,10 @@
 ---
-title: Get Recommendation to the Board
+title: Get Recommendations to the Board
 permalink: /:path/:basename
 ---
 
 All actions, recommendations, and policies
-of an neighborhood council committee
+of a neighborhood council committee
 are subject
 to approval
 by official action
@@ -17,10 +17,10 @@ on their agenda.
 Thus, if your committee
 has made any recommendations,
 it's important
-to get that
+to get them
 on the board agenda
 so the board
-can act on it.
+can act on them.
 
 The board agenda is usually set
 by the board president or chair.

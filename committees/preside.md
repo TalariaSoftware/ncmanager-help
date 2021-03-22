@@ -1,12 +1,12 @@
 ---
-title: Preside Over the Meeting
+title: Preside over the Meeting
 permalink: /:path/:basename
 ---
 
 Once you are
 in a meeting,
 it is the responsibility
-of the chair
+of the chair,
 or their
 designee,
 to preside
@@ -15,7 +15,7 @@ over the meeting.
 Preside is,
 for the most part,
 a fancy word
-for facilitate.
+for lead.
 
 The person presiding
 over the meeting
@@ -38,7 +38,7 @@ it can only recommend actions
 to the NC board.
 The more voices
 that are included
-in those recommendations
+in those recommendations,
 the more likely
 the board is
 to act on them.

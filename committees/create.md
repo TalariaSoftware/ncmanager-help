@@ -16,7 +16,7 @@ in perpetuity.
 They are defined
 in the neighborhood council bylaws.
 Article VII, section 1
-of your NC bylaws show
+of your NC bylaws shows
 what standing committees exist.
 
 In order

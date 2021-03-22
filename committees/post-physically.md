@@ -6,7 +6,7 @@ permalink: /:path/:basename
 Not everyone
 in your neighborhood
 has easy access
-to the web
+to the web,
 or knows to check
 your neighborhood council website.
 It is important to post

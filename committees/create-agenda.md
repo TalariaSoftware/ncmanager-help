@@ -13,9 +13,8 @@ neighborhood council agendas.
 
 An agenda
 lets everyone know
-what is going
-to be discussed
-in the meeting.
+the topics
+of the meeting.
 This helps people decide
 whether or not
 they should attend

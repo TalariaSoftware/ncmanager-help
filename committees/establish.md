@@ -4,7 +4,7 @@ permalink: /:path/:basename
 ---
 
 Before a committee
-can do anything
+can do anything,
 it needs
 to be established.
 That requires

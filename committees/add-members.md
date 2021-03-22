@@ -10,7 +10,7 @@ So the last step
 in establishing a committee
 is to add members.
 
-In most cases
+In most cases,
 the committee chair
 makes appointments
 which are then ratified
@@ -29,7 +29,7 @@ Anyone can be
 a committee member.
 They do not need
 to be a board member.
-In some cases
+In some cases,
 they do not even need
 to be a stakeholder.
 Committee membership is
@@ -61,7 +61,7 @@ more than half
 of your committee members
 present,
 you will not
-have quorum[^bylawsquorum]
+have a quorum[^bylawsquorum]
 and will not
 be able
 to have
@@ -91,9 +91,9 @@ in a board meeting.
     of your NC bylaws
     to find out the process
     for your NC.
-    If the bylaws are do not specify,
+    If the bylaws do not specify,
     Robert's Rules of Order
-    describe ways the committee members
+    describes ways the committee members
     may be appointed.
     RONR (12<sup>th</sup>&nbsp;ed.) 50:11-17
 

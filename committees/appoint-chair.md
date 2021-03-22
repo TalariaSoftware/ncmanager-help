@@ -46,7 +46,7 @@ of the board.[^majorityvote]
     on what goes
     into the agenda,
     there is no way
-    to resolve the disagreement.[^ronrcochairs
+    to resolve the disagreement.[^ronrcochairs]
 
     It is also unnecessary.
     A committee chair can delegate
@@ -76,6 +76,6 @@ of the board.[^majorityvote]
     of the board."
     If the bylaws are silent,
     Robert's Rules of Order
-    describe ways the chair
+    describes ways the chair
     may be appointed.
     RONR (12<sup>th</sup>&nbsp;ed.) 13:17-18

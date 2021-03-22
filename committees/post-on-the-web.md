@@ -10,7 +10,7 @@ with the general public
 is through a website.
 If your neighborhood council
 has a website,
-(and it should)
+(and it should),
 you should post your committee agendas there.
 
 <aside class="callout" role="complementary" markdown="1">
@@ -24,9 +24,9 @@ on your neighborhood council website.
 BONC policy[^bonc2014011] requires
 that all committee agendas
 are posted
-on the NC website
+on the NC website,
 or a page made available
-at EmpowerLA
+at EmpowerLA,
 and that the postings are
 "Brown Act time compliant,"
 meaning 72 hours in advance
@@ -35,7 +35,7 @@ and 24 hours in advance
 for special meetings.
 
 If your NC does not
-have a website
+have a website,
 contact your Neighborhood Empowerment Advocate
 at the Department of Neighborhood Empowerment
 and they will
