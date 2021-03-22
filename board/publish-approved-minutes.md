@@ -22,7 +22,7 @@ to [create approved minutes.](/ncms/approved-minutes)
 </aside>
 
 Once the minutes
-are approved
+are approved,
 they should be updated
 to show that
 they were approved

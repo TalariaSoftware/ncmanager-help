@@ -23,9 +23,8 @@ Minutes are the record
 of the board meeting.
 They should say
 when and where the board met,
-what board members were present,
-and what actions were taken
-by the board.
+which board members were present,
+and what actions the board took.
 
 [^bylawssecretaryminutes]:
     This will usually
@@ -33,7 +32,7 @@ by the board.
     in article VI, section 2
     under the duties
     of the secretary.
-    If not, otherwise specified
+    If not otherwise specified
     by the bylaws,
     parliamentary procedure
     gives this duty

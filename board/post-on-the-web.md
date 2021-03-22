@@ -10,7 +10,7 @@ with the general public
 is through a website.
 If your neighborhood council
 has a website,
-(and it should)
+(and it should),
 you should post your committee agendas there.
 
 <aside class="callout" role="complementary" markdown="1">

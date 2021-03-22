@@ -9,12 +9,12 @@ and then published the agenda.
 Now it's time
 to do the real work.
 It's time to
-get together, discuss, and take actions
+get together, discuss, and take action
 on the important issues.
 It's time
 to have a board meeting.
 
-During your board meeting
+During your board meeting,
 you need someone
 to [preside over the meeting](preside)
 and you need someone

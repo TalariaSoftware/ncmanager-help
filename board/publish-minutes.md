@@ -50,7 +50,7 @@ Finally,
 if you have a mailing list
 of people
 who are interested
-in your NC
+in your NC,
 you may want
 to email the minutes
 to that list also.

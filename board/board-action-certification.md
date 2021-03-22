@@ -20,7 +20,7 @@ by the Board Action Certification form (BAC).
 
 A BAC can be requested
 by any city department
-as testament
+as a testament
 to a neighborhood council board action,
 but it is
 most often required
@@ -81,15 +81,14 @@ took the action.
 
 This should be
 the date
-of the meeting
-when the board action
-was taken.
+when the board met
+and took the action.
 
 ### Board Motion
 
-The BAC documents
-an official action taken
-by the neighborhood council
+The BAC documents that
+the neighborhood council
+took an official action,
 so it must specify what
 the action is.
 
@@ -162,12 +161,9 @@ how many board members
 are needed
 to make a quorum
 of the board.
-This shows
-that the action
-was taken
-in accordance
-with the rules
-regarding quorum.
+This shows that
+the board was following
+the rules regarding quorum.
 
 Quorum
 for the board
@@ -192,29 +188,25 @@ or recused.
 
 ## Signing a BAC
 
-Before a BAC
-will be accepted
-and acted on
-by the City Clerk,
-it must be signed
-and dated
-by two people
+Two people
 authorized to sign
-for the neighborhood council.
-
+for the neighborhood council
+must sign the BAC
+before the City Clerk will
+accept and act on it.
 For financial matters,
 the only authorized signers
 are the treasurer
 and the second signers
 elected by the board.
 
-When you sign a BAC
+When you sign a BAC,
 you are declaring
 that the information
 on the BAC
 is accurate and complete.
 You are also declaring
-that the action taken
+that the action 
 followed the rules
 regarding public meetings,
 the Brown Act,

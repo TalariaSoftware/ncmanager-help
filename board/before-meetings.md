@@ -4,8 +4,8 @@ permalink: /:path/:basename
 ---
 
 Before you can have
-a board meeting
-you need an [agenda](create-agenda)
+a board meeting,
+you need an [agenda](create-agenda),
 and that agenda
 will need to be posted
 to [ENS](early-notification-system),

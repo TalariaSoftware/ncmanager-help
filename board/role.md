@@ -6,10 +6,9 @@ permalink: /:path/:basename
 The board is
 the decision-making body[^governingbody]
 of the neighborhood council.
-All of the statutory power
-of the neighborhood council
-can only be exercised
-by the board.
+It wields
+all of the statutory power
+of the neighborhood council.
 That includes the power
 to allocate funds
 and to speak

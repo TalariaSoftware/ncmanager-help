@@ -23,7 +23,7 @@ are important,
 the minimum officers essential
 for conducting business are
 the presiding officer,
-usually called president or chairperson,
+(usually called president or chairperson),
 and the secretary.[^ronressential]
 
 
@@ -36,7 +36,7 @@ to receive more votes
 than anyone else.
 If no one receives
 more than half
-of the votes cast
+of the votes cast,
 then no one is elected.
 The board would need
 to deliberate

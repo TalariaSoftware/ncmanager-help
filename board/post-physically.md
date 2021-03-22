@@ -35,7 +35,7 @@ Find out this location
 for your Neighborhood Council,
 and post your agenda there
 at least 72 hours
-before a regular meetings
+before a regular meeting
 and 24 hours
 before a special meeting.
 

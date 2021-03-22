@@ -29,7 +29,7 @@ for the public
 to stay aware
 of what is happening
 in city government.
-It was proscribed
+It was prescribed
 in the same part
 of the City Charter
 that created Neighborhood Councils.[^laccsec907]

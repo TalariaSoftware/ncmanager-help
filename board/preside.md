@@ -5,7 +5,7 @@ permalink: /:path/:basename
 Preside is,
 for the most part,
 a fancy word
-for facilitate.
+for lead.
 
 The person presiding
 over the meeting
@@ -49,10 +49,10 @@ is the duty
 of the president or chairperson
 but they can
 delegate it
-as the see fit
+as they see fit
 or whenever necessary.
 
-Occassionally
+Occasionally,
 the president/chairperson is unavailable.
 This can happen if
 the office is vacant,

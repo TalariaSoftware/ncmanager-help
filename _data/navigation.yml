@@ -66,9 +66,9 @@ board:
     href: /board/create-agenda
   - text: Post to the Early Notification System
     href: /board/early-notification-system
-  - text: Post on your NC website
+  - text: Post the Agenda on the Web
     href: /board/post-on-the-web
-  - text: Post your agenda physically
+  - text: Post the Agenda Physically
     href: /board/post-physically
   - text: During the Meeting
     href: /board/during-meetings
@@ -76,7 +76,7 @@ board:
     href: /board/preside
   - text: Take Minutes
     href: /board/take-minutes
-  - text: After the meeting
+  - text: After the Meeting
     href: /board/after-meetings
   - text: Publish the Minutes
     href: /board/publish-minutes
