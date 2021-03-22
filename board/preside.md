@@ -22,8 +22,7 @@ and guides the board
 in making decisions.
 
 Parliamentary procedure,
-such as codified
-by *Robert's Rules of Order*,
+as described in *Robert's Rules of Order*,
 provides the framework
 for leading these meetings[^parliamentaryauthority]
 and the presiding officer
