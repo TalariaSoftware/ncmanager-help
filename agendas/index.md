@@ -8,7 +8,7 @@ what is going
 to be discussed
 in the meeting.
 It helps people decide
-if they should attend
+if they should attend,
 and also helps them
 be prepared
 for the meeting
@@ -18,14 +18,14 @@ The Brown Act requires
 that every topic
 that is going
 to be discussed
-appear on the agenda
+appear on the agenda,
 and that nothing is discussed
 that is not
 on the agenda.
 This ensures that
 everyone can be
-aware of
-and participate in
+aware of,
+and participate in,
 the deliberations
 of government.
 
@@ -36,4 +36,4 @@ to create agendas
 that are complete,
 easy to understand,
 and compliant
-will all applicable laws and regulations.
+with all applicable laws and regulations.

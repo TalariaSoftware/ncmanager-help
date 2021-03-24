@@ -35,7 +35,7 @@ Example CPRA notice:
 > In compliance with Government Code section 54957.5, non-exempt writings
 > that are distributed to a majority or all of the board in advance of a
 > meeting may be viewed at 123 Main St, Los Angeles, CA 90000, at our
-> website: www.example.org or at the scheduled meeting. In addition, if you
+> website: www.example.org, or at the scheduled meeting. In addition, if you
 > would like a copy of any record related to an item on the agenda, please
 > contact J. Davenport, Board President, at (323) 555-5555 or email
 > chair@example.org.

@@ -35,8 +35,8 @@ Example ADA notice:
 > As a covered entity under Title II of the Americans with Disabilities Act,
 > the City of Los Angeles does not discriminate on the basis of disability
 > and, upon request, will provide reasonable accommodation to ensure equal
-> access to its programs, services and activities. Sign language interpreters,
-> assistive listening devices and other auxiliary aids and/or services, may be
+> access to its programs, services, and activities. Sign language interpreters,
+> assistive listening devices, and other auxiliary aids and/or services may be
 > provided upon request. To ensure availability of services, please make your
 > request at least 3 business days (72 hours) prior to the meeting you wish to
 > attend by contacting George Washington, Board President, at (323) 555-1212

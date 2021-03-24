@@ -29,7 +29,7 @@ or governing board.
 The agenda should indicate
 if the meeting
 is a regular meeting
-or special meeting.
+or a special meeting.
 
 The agenda also needs
 to say
@@ -57,19 +57,19 @@ everything people need
 to be able
 to attend.
 
-Example for an in-person committee regular meeting:
+Example for an in-person, regular committee meeting:
 
 > Hill Valley Neighborhood Council Party Committee Regular Meeting  
-> October 21, 2015 4:30 pm  
+> October 21, 2015, 4:30 pm  
 > Courthouse Mall Community Room  
 > 100 Courthouse Square  
 > Hill Valley, CA 90000  
 
-Example for an online board special meeting:
+Example for an online special board meeting:
 
 > Hill Valley Neighborhood Council Board Special Meeting  
-> October 21, 2015 4:30 pm  
+> October 21, 2015, 4:30 pm  
 > Teleconference meeting  
 > Attend via Zoom at https://zoom.us/j/987654321012  
-> Attend by phone by dialing 1-669-900-6833 and entering meeting id 987 6543 21012  
+> Attend by phone by dialing 1-669-900-6833 and entering meeting ID 987 6543 21012  
 

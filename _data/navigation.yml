@@ -42,10 +42,10 @@ agendas:
     href: /agendas/call-to-order
   - text: Roll Call
     href: /agendas/roll-call
-  - text: General Public Comment
-    href: /agendas/general-public-comment
   - text: Approval of the Minutes
     href: /agendas/approval-of-minutes
+  - text: General Public Comment
+    href: /agendas/general-public-comment
   - text: Adjournment
     href: /agendas/adjournment
   - text: Public Access to Records

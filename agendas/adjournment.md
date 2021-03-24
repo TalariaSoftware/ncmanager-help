@@ -13,7 +13,7 @@ With NCMS,
 adjournment
 can be one
 of the [default agenda items](/ncms/default-agenda-items)
-automatically added
+automatically added to
 every agenda.
 </aside>
 
@@ -36,4 +36,5 @@ on the meeting agenda.
 
 Example agenda item:
 
+> {:start="12"}
 > 12. Adjournment

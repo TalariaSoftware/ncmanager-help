@@ -8,11 +8,11 @@ With NCMS,
 roll call
 can be one
 of the [default agenda items](/ncms/default-agenda-items)
-automatically added
+automatically added to
 every agenda.
 </aside>
 
-After the call to order
+After the call to order,
 but before
 any other meeting business,
 a neighborhood council board or committee
@@ -35,4 +35,5 @@ on the meeting agenda.
 
 Example agenda item:
 
+> {:start="2"}
 > 2. Roll Call

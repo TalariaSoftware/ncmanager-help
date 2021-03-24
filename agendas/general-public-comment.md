@@ -8,7 +8,7 @@ With NCMS,
 general public comment
 can be one
 of the [default agenda items](/ncms/default-agenda-items)
-automatically added
+automatically added to
 every agenda.
 </aside>
 
@@ -34,6 +34,7 @@ include this item.
 
 Example agenda item:
 
-> 3. General Public Comment on Non-Agenda Items
+> {:start="4"}
+> 4. General Public Comment on Non-Agenda Items
 
 [^549543]: Cal. Gov. Code §54954.3

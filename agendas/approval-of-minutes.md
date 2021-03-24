@@ -8,7 +8,7 @@ With NCMS,
 approval of the minutes
 can be one
 of the [default agenda items](/ncms/default-agenda-items)
-automatically added
+automatically added to
 every agenda.
 </aside>
 
@@ -30,14 +30,15 @@ at the beginning
 of the next
 regular meeting.
 In order for that
-to happen
+to happen,
 it needs
 to be listed
 on the meeting agenda.[^ronrapprove]
 
 Example agenda item:
 
-> 4. Approval of the Minutes of Previous Meeting(s)
+> {:start="3"}
+> 3. Approval of the Minutes of Previous Meeting(s)
 
 [^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 

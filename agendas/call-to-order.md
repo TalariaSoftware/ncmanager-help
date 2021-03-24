@@ -8,7 +8,7 @@ With NCMS,
 the call to order
 can be one
 of the [default agenda items](/ncms/default-agenda-items)
-automatically added
+automatically added to
 every agenda.
 </aside>
 
@@ -34,7 +34,7 @@ Example agenda item:
 > 1. Call to Order
 
 [^ronr315]:
-    The call to order is described
-    in detail
-    in Robert's Rules of Order.
+    Robert's Rules of Order describes
+    the call to order
+    in detail.
     RONR (12<sup>th</sup>&nbsp;ed.) 3:15
