@@ -26,7 +26,7 @@ are read
 at the beginning
 of the meeting.
 Long, overly-detailed minutes will
-take up unnecesary time
+take up unnecessary time
 in a meeting
 and are a bore
 to listen to.
@@ -46,20 +46,20 @@ and ensure their correctness.
 
 Shorter minutes
 are not only
-easier to correct
+easier to correct,
 but will also
 have fewer mistakes.
 The less the secretary needs
-to record
+to record,
 the fewer opportunities
 for mistakes
-they have
+they have,
 and the easier
 it is
 to avoid them.
 
 Shorter minutes also
-makes it easier
+make it easier
 for the person
 taking minutes
 to participate
@@ -74,7 +74,7 @@ or committee.
 
 Finally,
 shorter minutes are easier
-to use as reference
+to use as a reference
 when researching
 or verifying actions
 from previous meetings.

@@ -21,7 +21,7 @@ counts abstentions.[^boncabstentions]:
 Most neighborhood councils
 do not count
 abstentions as votes.
-For them
+For them,
 the notice
 could look
 like this:
@@ -31,7 +31,7 @@ like this:
 Some neighborhood councils
 count abstentions
 as yes votes.
-For them
+For them,
 the notice
 could look
 like this:

@@ -1,5 +1,5 @@
 ---
-title: Other Action
+title: Other Actions
 permalink: /:path/:basename
 ---
 
@@ -13,7 +13,7 @@ for completeness or clarity.
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to record [other actions.](/ncms/other-actions)
 </aside>
 

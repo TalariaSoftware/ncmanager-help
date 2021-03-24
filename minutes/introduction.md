@@ -29,7 +29,7 @@ of the neighborhood council.
 The minutes should indicate
 if the meeting
 was a regular meeting
-or special meeting.[^ronr4841]
+or a special meeting.[^ronr4841]
 
 The minutes also need
 to say
@@ -51,24 +51,24 @@ If the meeting
 was held online,
 that should
 be noted instead
-of a physcial address.
+of a physical address.
 
 Example introduction
-for an in-person
+for an in-person,
 regular board meeting:
 
-> Lake Woebegone Neighborhood Council Governing Board  
+> Lake Wobegon Neighborhood Council Governing Board  
 > Regular Meeting  
-> April 1, 2021 7:00 pm  
+> April 1, 2021, 7:00 pm  
 > Local Community Center  
 > 123 Lake St.  
-> Los Angeles CA
+> Los Angeles, CA
 
 Example introduction
 for an online
 special committee meeting:
 
-> Lake Woebegone Neighborhood Council Party Committee  
+> Lake Wobegon Neighborhood Council Party Committee  
 > Special Meeting  
 > April 2, 2021 7:30 pm  
 > Teleconference meeting held via Zoom

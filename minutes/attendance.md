@@ -9,7 +9,7 @@ are present
 at the meeting.
 This provides verification
 that the assembly
-had quorum to act.
+had the quorum to act.
 It also provides
 an official record
 so that members
@@ -19,7 +19,7 @@ or lack thereof.[^bylawsattendance]
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to [take roll](/ncms/roll-call)
 and to note [arrivals and departures.](/ncms/arrivals-and-departures)
 </aside>
@@ -50,8 +50,8 @@ Example:
 > Present (3): Tahani Al-Jamil, Chidi Anagonye, Jason Mendoza  
 > Absent (1): Eleanor Shellstrop  
 >
-> [10:34 am] Eleanor Shellstrop arrived at the meeting  
-> [10:36 am] Jason Mendoza left the meeting
+> [10:34 am] Eleanor Shellstrop arrived at the meeting.  
+> [10:36 am] Jason Mendoza left the meeting.  
 
 [^bylawsattendance]:
     See the NC bylaws
@@ -68,7 +68,7 @@ Example:
      noting the time
      of any members
      who arrive
-     after the meting
+     after the meeting
      is called to order
      or who leave
      before the adjournment

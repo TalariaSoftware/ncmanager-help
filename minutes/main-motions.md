@@ -18,12 +18,12 @@ in the minutes.
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to [record main motions.](/ncms/main-motions)
 </aside>
 
 The description
-of the main motion
+of a main motion
 should include
 the final wording
 of the motion[^ronrfinalwording]
@@ -84,7 +84,7 @@ who seconded it.[^ronrmover]
     the board count vote
     of each board member
     by name,
-    noting how they voted"
+    noting how they voted....”
     Los Angeles, CA,
     Board of Neighborhood Commissioners,
     [Policy No. 2016-01 (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)

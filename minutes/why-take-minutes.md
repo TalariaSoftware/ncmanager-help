@@ -19,7 +19,7 @@ at committee meetings as well.[^bylawscommitteeminutes]
 
 Finally, parliamentary procedure
 also requires
-minute taking.[^ronr36]
+taking minutes.[^ronr36]
 
 [^bonc201601]:
       "Neighborhood Councils shall
@@ -69,13 +69,13 @@ vitally important
 for a neighborhood council
 because it is
 a government body
-that should be answerable
+that should answer
 to its stakeholders.
 
 Written minutes also
 demonstrate agreement
 by the members
-of what
+on what
 the board or committee
 has done.
 Well-written and approved minutes eliminate

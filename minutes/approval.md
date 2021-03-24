@@ -9,7 +9,7 @@ become the official record
 of the assembly
 after they are approved
 by the assembly.
-Until then
+Until then,
 they are draft minutes
 and should be
 clearly marked
@@ -17,7 +17,7 @@ as such.[^ronr4112]
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to [create approved minutes.](/ncms/approved-minutes)
 </aside>
 
@@ -30,7 +30,7 @@ have been approved,
 they should
 state that,
 along with the date
-that they were approved on.[^ronr4814]
+that they were approved.[^ronr4814]
 
 For example:
 

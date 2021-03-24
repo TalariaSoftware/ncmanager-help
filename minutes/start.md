@@ -14,7 +14,7 @@ the call to order.
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to [note
 when the meeting starts.](/ncms/call-to-order)
 </aside>
@@ -31,7 +31,7 @@ and who is presiding.[^ronr4844]
 
 For example:
 
-> [7:01 pm] Meeting called to order. Chidi Anagonye presiding.
+> [7:01 pm] Meeting called to order, Chidi Anagonye presiding.
 
 [^ronr315]:
     RONR (12<sup>th</sup>&nbsp;ed.) 3:15
@@ -41,7 +41,7 @@ For example:
      at a minimum
      the following information: 1.
      The start time
-     of the meeting"
+     of the meeting....”
      Los Angeles, CA, Board of Neighborhood Commissioners,
      [Policy No. 2016-01
      (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
@@ -55,7 +55,7 @@ For example:
     the regular chairman and secretary were present
     or, in their absence,
     the names
-    of the person
+    of the persons
     who substituted
     for them."
     RONR (12<sup>th</sup>&nbsp;ed.) 48:4

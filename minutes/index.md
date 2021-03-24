@@ -13,8 +13,7 @@ the meeting was held,
 what members
 were present,
 and what actions
-were taken
-by the assembly.
+the assembly took.
 
 This guide is designed
 to give you

@@ -15,7 +15,7 @@ and the time it happened.[^ronradjourn]
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
-it is easy
+it easy
 to record the [adjournment.](/ncms/adjournment)
 </aside>
 

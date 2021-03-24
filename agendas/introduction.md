@@ -59,7 +59,8 @@ to attend.
 
 Example for an in-person, regular committee meeting:
 
-> Hill Valley Neighborhood Council Party Committee Regular Meeting  
+> Hill Valley Neighborhood Council Party Committee  
+> Regular Meeting  
 > October 21, 2015, 4:30 pm  
 > Courthouse Mall Community Room  
 > 100 Courthouse Square  
@@ -67,7 +68,8 @@ Example for an in-person, regular committee meeting:
 
 Example for an online special board meeting:
 
-> Hill Valley Neighborhood Council Board Special Meeting  
+> Hill Valley Neighborhood Council Board  
+> Special Meeting  
 > October 21, 2015, 4:30 pm  
 > Teleconference meeting  
 > Attend via Zoom at https://zoom.us/j/987654321012  
