@@ -5,8 +5,7 @@ permalink: /:path/:basename
 
 The officers
 of the board are board members
-chosen by the board
-to perform
+chosen to perform
 specific duties
 necessary to having
 a well-functioning
@@ -26,11 +25,19 @@ the presiding officer,
 (usually called president or chairperson),
 and the secretary.[^ronressential]
 
+The method
+for choosing officers
+is described
+in article VI, section 3,
+of the neighborhood council bylaws.
+In most cases,
+or if the bylaws
+do no specify,
+the officer are chosen
+by majority vote
+of the board.[^choosingronr]
 
-Officers are chosen
-by a majority vote
-of the board.[^choosing]
-Unlike other elections,
+When a majority vote is required,
 it is not sufficient
 to receive more votes
 than anyone else.
@@ -57,9 +64,6 @@ and then vote again.
     &mdash; usually called 'the minutes.'"
     RONR (12<sup>th</sup>&nbsp;ed.) 3:6
 
-[^choosing]:
-    This is specified
-    by the NC Bylaws
-    in article VI, section 3.
-    The process is also described
+[^choosingronr]:
+    The process is described
     in Robert's Rules of Order §46.
