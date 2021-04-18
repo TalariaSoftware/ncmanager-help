@@ -28,13 +28,13 @@ and the secretary.[^ronressential]
 The method
 for choosing officers
 is described
-in article VI, section 3,
+in article VI section 3
 of the neighborhood council bylaws.
 In most cases,
 or if the bylaws
-do no specify,
-the officer are chosen
-by majority vote
+do not specify,
+the officers are chosen
+by a majority vote
 of the board.[^choosingronr]
 
 When a majority vote is required,
