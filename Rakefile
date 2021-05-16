@@ -18,7 +18,9 @@ module HTMLProofer
   end
 end
 
-task :test do
+task test: %i[test_workflows html_proofer]
+
+task :html_proofer do
   sh 'bundle exec jekyll build --future'
   options = {
     assume_extension: true,
@@ -41,4 +43,11 @@ task :test do
   end
 
   proofer.run
+end
+
+task :test_workflows do
+  Dir['.github/workflows/*.yml'].each do |file|
+    puts "Checking #{file}"
+    YAML.load_file file
+  end
 end
