@@ -31,7 +31,7 @@ Institute at Cornell University Law School, especially the sections on
 
 ## Clerk
 
-> Los Angeles, CA, Office of the City Clerk, Administrative Services Division, Neighborhood Council Funding Program, [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.4 - Expenditures of Community Improvement Projects 5(a)(i)
+> Los Angeles, CA, Office of the City Clerk, Administrative Services Division, Neighborhood Council Funding Program, [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.4 - Expenditures of Community Improvement Projects 5(a)(i)
 
 ## Robert's Rules:
 

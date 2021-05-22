@@ -54,7 +54,7 @@ are [filled out automatically.](/ncms/bac-forms)
 
 The City Clerk provides
 a blank BAC form
-on their [website.](https://clerk.lacity.org/neighborhood-council-funding/documents-and-forms)
+on their [website.](https://clerk.lacity.org/clerk-services/nc-funding/documents-forms/documents)
 
 To complete the BAC form,
 you must fill in
@@ -218,7 +218,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.0 -
     Expenditures
     14(c)(ii).
 
@@ -226,7 +226,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph606/f/Neighborhood%20Council%20Funding%20System.pdf)
+    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/Neighborhood%20Council%20Funding%20System.pdf)
     p 5
 
 [^checkpayment]:
@@ -234,18 +234,18 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.0 -
     Expenditures
     4(b)(i)
 
     See also
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.1 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.1 -
     Office/Operational Expenditures
     1(a)(i),
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.2 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.2 -
     Outreach Expenditures
     3(a)(i)(2) and (ii)(2), and
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.3 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.3 -
     Election Expenditures
     2(a)(i).
 
@@ -253,14 +253,14 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph606/f/Neighborhood%20Council%20Funding%20System.pdf)
+    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/Neighborhood%20Council%20Funding%20System.pdf)
     p 2
 
 [^budget]:
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph606/f/Neighborhood%20Council%20Funding%20System.pdf)
+    [NC Funding System Guide,](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/Neighborhood%20Council%20Funding%20System.pdf)
     p 7
 
 [^lease]:
@@ -268,7 +268,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 4.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 4.0 -
     Contracts and Leases
     2(d)(i).
 
@@ -277,7 +277,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 4.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 4.0 -
     Contracts and Leases
     1(c)(i).
 
@@ -286,7 +286,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.4 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.4 -
     Expenditures for Neighborhood Purposes Grants
     1(g).
     See also 7(a)(i).
@@ -296,7 +296,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.4 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.4 -
     Expenditures of Community Improvement Projects
     5(a)(i)
 
@@ -305,7 +305,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.2 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.2 -
     Outreach Expenditures
     2(d)(ii).
 
@@ -314,7 +314,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.0 -
     Expenditures
     6(a)(i).
 
@@ -323,7 +323,7 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 2.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 2.0 -
     Expenditures
     7(c).
 
@@ -332,6 +332,6 @@ and quorum.
     Office of the City Clerk,
     Administrative Services Division,
     Neighborhood Council Funding Program,
-    [Policy](https://clerk.lacity.org/sites/g/files/wph606/f/NCFP%20Policies%2007.19.18%20Final.pdf) 5.0 -
+    [Policy](https://clerk.lacity.org/sites/g/files/wph1491/files/2021-03/NCFP%20Policies_07.19.18_Final.pdf) 5.0 -
     Expenditures of NC Funds in a Declared Emergencies
     7(a).
