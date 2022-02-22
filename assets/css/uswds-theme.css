@@ -5640,11 +5640,9 @@ available utility palettes
 .card .card-footer { padding: 1.25rem; }
 .card .card-read-more-link { display: inline-block; text-decoration: none; }
 .card .card-read-more-link svg { display: inline-block; fill: #005ea2; height: 0.75rem; margin-left: 0.25rem; margin-top: -2px; vertical-align: middle; width: 0.75rem; }
-.usa-footer__primary-section { background-color: #f0f0f0; }
-.usa-footer__primary-section .usa-footer__primary-link { color: #1b1b1b; }
-.usa-footer__secondary-section { background-color: #dfe1e2; color: #1b1b1b; }
-.usa-footer__secondary-section a { color: #1b1b1b; }
-.usa-footer__secondary-section .usa-social-link { background-color: rgba(0, 0, 0, 0.1); }
+.edit-page p { font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif; font-size: 1.13rem; }
+@media all and (min-width: 40em) { .edit-page__date p { text-align: right; } }
+footer { margin-top: auto; order: 10; }
 .usa-header { background-color: white; }
 .usa-header .usa-logo a { color: #1b1b1b; align-items: center; display: flex; }
 .usa-header .usa-logo .usa-logo-img { float: left; height: 1rem; margin-right: 0.5rem; }
@@ -5704,6 +5702,7 @@ i.e.
 @media all and (min-width: 30em) { .usa-footer--big a.usa-footer__primary-link { margin-bottom: 1.5rem; } }
 .usa-header button[aria-expanded="true"]:after, .usa-header button[aria-expanded="true"]:hover:after { display: none; }
 .usa-layout-docs__sidenav, .usa-layout-docs__main { width: 100%; overflow: hidden; }
+@media all and (min-width: 64em) { body { display: flex; flex-direction: column; min-height: 100vh; } }
 /* Custom project SASS goes here. i.e. @include u-padding-right('05'); */
 .usa-layout-docs__sidenav, .usa-layout-docs__main { overflow: inherit; }
 .usa-layout-docs__sidenav { width: 25%; }
