@@ -13,7 +13,8 @@ including neighborhood council boards.
 Interested members
 of the public
 can sign up
-and receive
+on the [ENS website](https://www.lacity.org/government/subscribe-agendasnotifications/neighborhood-councils)
+to receive
 agendas for city meetings
 by email.
 

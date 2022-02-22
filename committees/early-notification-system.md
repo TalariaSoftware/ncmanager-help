@@ -13,9 +13,10 @@ including neighborhood council committees.
 Interested members
 of the public
 can sign up
-to receive,
-via email,
-agendas for city meetings.
+on the [ENS website](https://www.lacity.org/government/subscribe-agendasnotifications/neighborhood-councils)
+to receive
+agendas for city meetings
+by email.
 
 <aside class="callout" role="complementary" markdown="1">
 NCMS makes
