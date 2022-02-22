@@ -4,7 +4,7 @@ gem 'jekyll'
 
 gem 'html-proofer'
 gem 'jekyll-autoprefixer'
-gem 'mini_racer'
+gem 'mini_racer', '~> 0.5.0'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
