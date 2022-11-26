@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '~>4.2.2' # newer releases use too much from USWDS
 
 gem 'html-proofer', '< 4.0'
 gem 'jekyll-autoprefixer'
