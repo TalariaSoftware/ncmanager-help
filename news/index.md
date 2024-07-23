@@ -6,7 +6,7 @@ layout: home
 # News
 
 Updates about NCMS (the Neighborhood Council Management System) and things that
-are interesting to people involved in neighborhood councils.
+are interesting to people involved in Los Angeles neighborhood councils.
 
 <ul class="usa-collection">
   {% for post in site.posts %}
