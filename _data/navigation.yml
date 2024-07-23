@@ -11,6 +11,8 @@ primary:
       href: /minutes
     - text: NCMS
       href: /ncms
+    - text: News
+      href: /news
 
 secondary:
   - text: Home
