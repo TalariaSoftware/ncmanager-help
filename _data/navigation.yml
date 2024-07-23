@@ -1,15 +1,7 @@
 primary:
     - text: All Guides
       href: /
-    - text: Boards
-      href: /board
-    - text: Committees
-      href: /committees
-    - text: Agendas
-      href: /agendas
-    - text: Minutes
-      href: /minutes
-    - text: NCMS
+    - text: NCMS Guide
       href: /ncms
     - text: News
       href: /news
