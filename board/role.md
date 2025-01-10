@@ -28,4 +28,4 @@ of the neighborhood council.
     as set forth in
     the [Plan
     for a Citywide System
-    of Neighborhood Councils](https://empowerla.org/wp-content/uploads/2012/12/Plan-for-a-citywide-system-of-neighborhood-councils.pdf)."
+    of Neighborhood Councils](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2012/12/Plan-for-a-citywide-system-of-neighborhood-councils.pdf)."

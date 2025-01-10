@@ -40,7 +40,7 @@ Example agenda item:
 > {:start="3"}
 > 3. Approval of the Minutes of Previous Meeting(s)
 
-[^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
+[^bonc201601]: Board of Neighborhood Commissioners Policy [2016-01](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
 
 [^ronrapprove]:
     "[T]he minutes

@@ -75,4 +75,4 @@ Example:
      of the meeting."
      Los Angeles, CA,
      Board of Neighborhood Commissioners,
-     [Policy No. 2016-01 (1)](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
+     [Policy No. 2016-01 (1)](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)

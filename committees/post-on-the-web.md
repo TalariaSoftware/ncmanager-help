@@ -55,4 +55,4 @@ on the EmpowerLA website.
       Brown Act time compliant."
       Los Angeles, CA,
       Board of Neighborhood Commissioners,
-      [Policy No. 2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      [Policy No. 2014-01.1](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)

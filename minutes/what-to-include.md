@@ -83,4 +83,4 @@ from previous meetings.
     Robert's Rules of Order, primarily §48 par 1-8.
 
 [^boncreqs]:
-    [Policy Number 2016-01 (1).](https://empowerla.org/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)
+    [Policy Number 2016-01 (1).](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2019/03/Amended-Minutes-Policy-Resolution1-03.18.19.pdf)

@@ -47,7 +47,7 @@ before a special meeting.
       for all Board and Committee meetings."
       Los Angeles, CA,
       Board of Neighborhood Commissioners,
-      [Policy No. 2014-01.1,](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      [Policy No. 2014-01.1,](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
       para. 1
 
 [^postinglocation]:
@@ -56,5 +56,5 @@ before a special meeting.
       of their posting site."
       Los Angeles, CA,
       Board of Neighborhood Commissioners,
-      [Policy No. 2014-01.1,](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+      [Policy No. 2014-01.1,](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
       para. 5

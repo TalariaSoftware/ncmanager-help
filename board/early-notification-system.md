@@ -77,7 +77,7 @@ as the email subject.
     not less than
     24 hours in advance
     of the meeting." [BONC Policy No
-    2014-01.1](https://empowerla.org/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
+    2014-01.1](https://neighborhoodempowerment.lacity.gov/wp-content/uploads/2012/03/NC-AGENDA-POSTING-REQUIREMENTS_2014-01.1_revised-08-18-14.pdf)
 
 [^laccsec907]:
     Los Angeles, CA, City Charter §907
