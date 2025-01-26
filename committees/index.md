@@ -17,12 +17,12 @@ to lead your committee
 to success.
 
 Start by understanding
-the [role of committees](role)
+the [role of committees](committees/role)
 in the neighborhood council system.
 Then learn how
-a committee is [established](establish).
+a committee is [established](committees/establish).
 Once your committee is established,
 take a look at
 what is required
-[before](before-meetings), [during](during-meetings), and [after](after-meetings)
+[before](committees/before-meetings), [during](committees/during-meetings), and [after](committees/after-meetings)
 committee meetings.
