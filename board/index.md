@@ -16,9 +16,9 @@ to lead your board
 to success.
 
 Start by understanding
-the [role of the board](board/role)
+the [role of the board](role)
 in the neighborhood council system.
 Then take a look at
 what is required
-[before](board/before-meetings), [during](board/during-meetings), and [after](board/after-meetings)
+[before](before-meetings), [during](during-meetings), and [after](after-meetings)
 board meetings.
