@@ -54,7 +54,7 @@ are [filled out automatically.](/ncms/bac-forms)
 
 The City Clerk provides
 a blank BAC form
-on their [website.](https://clerk.lacity.org/clerk-services/nc-funding/documents-forms/documents)
+on their [website.](https://clerk.lacity.gov/neighborhood-council-elections-and-funding/neighborhood-council-funding/documents-and-forms-page)
 
 To complete the BAC form,
 you must fill in
